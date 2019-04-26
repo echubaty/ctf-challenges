@@ -1,0 +1,408 @@
+b1,r,lsb,xy         .. text: "^5>c[rvyzrf@"
+b1,r,msb,xy         .. b1,g,lsb,xy         .. b1,g,msb,xy         .. b1,b,lsb,xy         .. b1,b,msb,xy         .. b1,a,lsb,xy         .. b1,a,msb,xy         .. b1,rgb,lsb,xy       .. text: "picoCTF{r34d1ng_b37w33n_7h3_by73s}"
+b1,rgb,msb,xy       .. b1,bgr,lsb,xy       .. b1,bgr,msb,xy       .. b1,rgba,lsb,xy      .. b1,rgba,msb,xy      .. b1,abgr,lsb,xy      .. b1,abgr,msb,xy      .. file: PGP\011Secret Sub-key -
+b2,r,lsb,xy         .. b2,r,msb,xy         .. b2,g,lsb,xy         .. b2,g,msb,xy         .. text: "ADTU@PEPA"
+b2,b,lsb,xy         .. b2,b,msb,xy         .. b2,a,lsb,xy         .. b2,a,msb,xy         .. b2,rgb,lsb,xy       .. file: PGP\011Secret Sub-key -
+b2,rgb,msb,xy       .. b2,bgr,lsb,xy       .. b2,bgr,msb,xy       .. b2,rgba,lsb,xy      .. b2,rgba,msb,xy      .. b2,abgr,lsb,xy      .. b2,abgr,msb,xy      .. b3,r,lsb,xy         .. b3,r,msb,xy         .. b3,g,lsb,xy         .. b3,g,msb,xy         .. b3,b,lsb,xy         .. b3,b,msb,xy         .. b3,a,lsb,xy         .. b3,a,msb,xy         .. b3,rgb,lsb,xy       .. b3,rgb,msb,xy       .. b3,bgr,lsb,xy       .. b3,bgr,msb,xy       .. b3,rgba,lsb,xy      .. b3,rgba,msb,xy      .. b3,abgr,lsb,xy      .. b3,abgr,msb,xy      .. text: "t@Wv!Wt\tGtA"
+b4,r,lsb,xy         .. b4,r,msb,xy         .. text: "0Tt7F3Saf"
+b4,g,lsb,xy         .. b4,g,msb,xy         .. text: "2g'uV `3"
+b4,b,lsb,xy         .. text: "##3\"TC%\"2f"
+b4,b,msb,xy         .. text: " uvb&b@f!"
+b4,a,lsb,xy         .. b4,a,msb,xy         .. b4,rgb,lsb,xy       .. text: "1C5\"RdWD"
+b4,rgb,msb,xy       .. text: "T E2d##B#VuQ`"
+b4,bgr,lsb,xy       .. text: "A%2RTdGG"
+b4,bgr,msb,xy       .. text: "EPD%4\"c\"#CUVqa "
+b4,rgba,lsb,xy      .. text: "?5/%/d_tO"
+b4,rgba,msb,xy      .. b4,abgr,lsb,xy      .. b4,abgr,msb,xy      .. text: "EO%O#/c/2/C_e_q"
+b5,r,lsb,xy         .. b5,r,msb,xy         .. b5,g,lsb,xy         .. b5,g,msb,xy         .. b5,b,lsb,xy         .. b5,b,msb,xy         .. b5,a,lsb,xy         .. b5,a,msb,xy         .. b5,rgb,lsb,xy       .. b5,rgb,msb,xy       .. b5,bgr,lsb,xy       .. b5,bgr,msb,xy       .. b5,rgba,lsb,xy      .. b5,rgba,msb,xy      .. b5,abgr,lsb,xy      .. b5,abgr,msb,xy      .. b6,r,lsb,xy         .. b6,r,msb,xy         .. b6,g,lsb,xy         .. b6,g,msb,xy         .. b6,b,lsb,xy         .. b6,b,msb,xy         .. b6,a,lsb,xy         .. b6,a,msb,xy         .. b6,rgb,lsb,xy       .. b6,rgb,msb,xy       .. file: PGP\011Secret Sub-key -
+b6,bgr,lsb,xy       .. b6,bgr,msb,xy       .. b6,rgba,lsb,xy      .. text: "^A?fq?Zp"
+b6,rgba,msb,xy      .. file: PGP\011Secret Sub-key -
+b6,abgr,lsb,xy      .. b6,abgr,msb,xy      .. b7,r,lsb,xy         .. b7,r,msb,xy         .. text: "O$Q),6W("
+b7,g,lsb,xy         .. b7,g,msb,xy         .. b7,b,lsb,xy         .. b7,b,msb,xy         .. b7,a,lsb,xy         .. b7,a,msb,xy         .. b7,rgb,lsb,xy       .. b7,rgb,msb,xy       .. b7,bgr,lsb,xy       .. b7,bgr,msb,xy       .. text: "h\t%.(D{YX"
+b7,rgba,lsb,xy      .. b7,rgba,msb,xy      .. b7,abgr,lsb,xy      .. b7,abgr,msb,xy      .. b8,r,lsb,xy         .. text: ".10111/.,,+)$# !"
+b8,r,msb,xy         .. text: "$DD$$d4Ll|"
+b8,g,lsb,xy         .. text: "URPOLJFEGC?:2.+()(&'&$%%$$'')*****/15689??ACDHIKLJMMKHA=0*%"
+b8,g,msb,xy         .. text: "TTT44,<R"
+b8,b,lsb,xy         .. text: "(:B<862(\""
+b8,b,msb,xy         .. text: " Pphx$dd$(`"
+b8,a,lsb,xy         .. b8,a,msb,xy         .. b8,rgb,lsb,xy       .. text: "GC @D!<H 5I"
+b8,rgb,msb,xy       .. b8,bgr,lsb,xy       .. text: "AC CG!D@ H<"
+b8,bgr,msb,xy       .. b8,rgba,lsb,xy      .. b8,rgba,msb,xy      .. b8,abgr,lsb,xy      .. b8,abgr,msb,xy      .. b1,r,lsb,xy,prime   .. b1,r,msb,xy,prime   .. b1,g,lsb,xy,prime   .. b1,g,msb,xy,prime   .. b1,b,lsb,xy,prime   .. b1,b,msb,xy,prime   .. b1,a,lsb,xy,prime   .. b1,a,msb,xy,prime   .. b1,rgb,lsb,xy,prime .. b1,rgb,msb,xy,prime .. b1,bgr,lsb,xy,prime .. b1,bgr,msb,xy,prime .. b1,rgba,lsb,xy,prime.. b1,rgba,msb,xy,prime.. b1,abgr,lsb,xy,prime.. b1,abgr,msb,xy,prime.. b2,r,lsb,xy,prime   .. b2,r,msb,xy,prime   .. text: "@UUTQAPD"
+b2,g,lsb,xy,prime   .. b2,g,msb,xy,prime   .. text: "P@PTDDQTD"
+b2,b,lsb,xy,prime   .. b2,b,msb,xy,prime   .. b2,a,lsb,xy,prime   .. b2,a,msb,xy,prime   .. b2,rgb,lsb,xy,prime .. b2,rgb,msb,xy,prime .. b2,bgr,lsb,xy,prime .. b2,bgr,msb,xy,prime .. text: "U@A@EUTE@"
+b2,rgba,lsb,xy,prime.. b2,rgba,msb,xy,prime.. b2,abgr,lsb,xy,prime.. b2,abgr,msb,xy,prime.. b3,r,lsb,xy,prime   .. b3,r,msb,xy,prime   .. b3,g,lsb,xy,prime   .. b3,g,msb,xy,prime   .. b3,b,lsb,xy,prime   .. b3,b,msb,xy,prime   .. b3,a,lsb,xy,prime   .. b3,a,msb,xy,prime   .. b3,rgb,lsb,xy,prime .. b3,rgb,msb,xy,prime .. b3,bgr,lsb,xy,prime .. b3,bgr,msb,xy,prime .. b3,rgba,lsb,xy,prime.. text: "Hu'Hy'Iy"
+b3,rgba,msb,xy,prime.. b3,abgr,lsb,xy,prime.. b3,abgr,msb,xy,prime.. b4,r,lsb,xy,prime   .. file: byte-swapped Berkeley vfont data
+b4,r,msb,xy,prime   .. text: "76Vrut@Ffp7'"
+b4,g,lsb,xy,prime   .. b4,g,msb,xy,prime   .. text: "AbDFFF5waBDDbgb"
+b4,b,lsb,xy,prime   .. b4,b,msb,xy,prime   .. text: "p'0@bBD@"
+b4,a,lsb,xy,prime   .. b4,a,msb,xy,prime   .. b4,rgb,lsb,xy,prime .. b4,rgb,msb,xy,prime .. text: "e!4e&Tg3$V"
+b4,bgr,lsb,xy,prime .. b4,bgr,msb,xy,prime .. text: "$a5$fU$c'4P"
+b4,rgba,lsb,xy,prime.. b4,rgba,msb,xy,prime.. b4,abgr,lsb,xy,prime.. b4,abgr,msb,xy,prime.. text: "V?$oV_$?v/4"
+b5,r,lsb,xy,prime   .. b5,r,msb,xy,prime   .. b5,g,lsb,xy,prime   .. b5,g,msb,xy,prime   .. b5,b,lsb,xy,prime   .. b5,b,msb,xy,prime   .. b5,a,lsb,xy,prime   .. b5,a,msb,xy,prime   .. b5,rgb,lsb,xy,prime .. b5,rgb,msb,xy,prime .. text: "Z#I=fN\"l"
+b5,bgr,lsb,xy,prime .. b5,bgr,msb,xy,prime .. b5,rgba,lsb,xy,prime.. b5,rgba,msb,xy,prime.. b5,abgr,lsb,xy,prime.. b5,abgr,msb,xy,prime.. b6,r,lsb,xy,prime   .. b6,r,msb,xy,prime   .. b6,g,lsb,xy,prime   .. b6,g,msb,xy,prime   .. text: "&<O$p]rX^4|"
+b6,b,lsb,xy,prime   .. b6,b,msb,xy,prime   .. b6,a,lsb,xy,prime   .. b6,a,msb,xy,prime   .. b6,rgb,lsb,xy,prime .. b6,rgb,msb,xy,prime .. b6,bgr,lsb,xy,prime .. b6,bgr,msb,xy,prime .. b6,rgba,lsb,xy,prime.. text: ":!?R ?)b?S/?+m"
+b6,rgba,msb,xy,prime.. b6,abgr,lsb,xy,prime.. b6,abgr,msb,xy,prime.. text: "y?29?pe?"
+b7,r,lsb,xy,prime   .. b7,r,msb,xy,prime   .. b7,g,lsb,xy,prime   .. b7,g,msb,xy,prime   .. b7,b,lsb,xy,prime   .. b7,b,msb,xy,prime   .. b7,a,lsb,xy,prime   .. b7,a,msb,xy,prime   .. b7,rgb,lsb,xy,prime .. b7,rgb,msb,xy,prime .. b7,bgr,lsb,xy,prime .. b7,bgr,msb,xy,prime .. b7,rgba,lsb,xy,prime.. b7,rgba,msb,xy,prime.. b7,abgr,lsb,xy,prime.. b7,abgr,msb,xy,prime.. b8,r,lsb,xy,prime   .. text: "*,%2@<B<"
+b8,r,msb,xy,prime   .. text: "p(R*R$x8d"
+b8,g,lsb,xy,prime   .. text: "POJE:.('%**6?CKH"
+b8,g,msb,xy,prime   .. text: "L*dDDjNnJbL\\<||"
+b8,b,lsb,xy,prime   .. b8,b,msb,xy,prime   .. text: "hH0`php`@D"
+b8,a,lsb,xy,prime   .. b8,a,msb,xy,prime   .. b8,rgb,lsb,xy,prime .. text: "Tr<Jv6$R\n"
+b8,rgb,msb,xy,prime .. text: "*N<Rnl$JPxb08L d\\"
+b8,bgr,lsb,xy,prime .. text: "VJ<rT6vJ\nR$"
+b8,bgr,msb,xy,prime .. text: "jR<N*lnRPJ$0bx L8"
+b8,rgba,lsb,xy,prime.. b8,rgba,msb,xy,prime.. b8,abgr,lsb,xy,prime.. b8,abgr,msb,xy,prime.. b1,r,lsb,yx         .. b1,r,msb,yx         .. b1,g,lsb,yx         .. b1,g,msb,yx         .. b1,b,lsb,yx         .. b1,b,msb,yx         .. b1,a,lsb,yx         .. b1,a,msb,yx         .. b1,rgb,lsb,yx       .. b1,rgb,msb,yx       .. b1,bgr,lsb,yx       .. b1,bgr,msb,yx       .. b1,rgba,lsb,yx      .. b1,rgba,msb,yx      .. b1,abgr,lsb,yx      .. b1,abgr,msb,yx      .. b2,r,lsb,yx         .. b2,r,msb,yx         .. b2,g,lsb,yx         .. b2,g,msb,yx         .. b2,b,lsb,yx         .. b2,b,msb,yx         .. b2,a,lsb,yx         .. b2,a,msb,yx         .. b2,rgb,lsb,yx       .. b2,rgb,msb,yx       .. b2,bgr,lsb,yx       .. b2,bgr,msb,yx       .. b2,rgba,lsb,yx      .. text: ["#" repeated 8 times]
+b2,rgba,msb,yx      .. b2,abgr,lsb,yx      .. b2,abgr,msb,yx      .. b3,r,lsb,yx         .. b3,r,msb,yx         .. b3,g,lsb,yx         .. b3,g,msb,yx         .. b3,b,lsb,yx         .. b3,b,msb,yx         .. b3,a,lsb,yx         .. b3,a,msb,yx         .. b3,rgb,lsb,yx       .. b3,rgb,msb,yx       .. b3,bgr,lsb,yx       .. b3,bgr,msb,yx       .. text: "IR \tJ2)Z2HR"
+b3,rgba,lsb,yx      .. b3,rgba,msb,yx      .. b3,abgr,lsb,yx      .. b3,abgr,msb,yx      .. b4,r,lsb,yx         .. text: "dH@N.@nFHH"
+b4,r,msb,yx         .. text: "CbQ!pp7UU\"\"\"\""
+b4,g,lsb,yx         .. b4,g,msb,yx         .. text: "\nct30&VGDd1"
+b4,b,lsb,yx         .. b4,b,msb,yx         .. text: "$BDbauw5"
+b4,a,lsb,yx         .. b4,a,msb,yx         .. b4,rgb,lsb,yx       .. b4,rgb,msb,yx       .. text: "2cwq`wEt"
+b4,bgr,lsb,yx       .. text: "Bf&bjDDD "
+b4,bgr,msb,yx       .. text: "e3qgpuwD"
+b4,rgba,lsb,yx      .. b4,rgba,msb,yx      .. b4,abgr,lsb,yx      .. b4,abgr,msb,yx      .. text: "4?c_%_6?"
+b5,r,lsb,yx         .. b5,r,msb,yx         .. b5,g,lsb,yx         .. b5,g,msb,yx         .. b5,b,lsb,yx         .. b5,b,msb,yx         .. b5,a,lsb,yx         .. b5,a,msb,yx         .. b5,rgb,lsb,yx       .. b5,rgb,msb,yx       .. b5,bgr,lsb,yx       .. b5,bgr,msb,yx       .. b5,rgba,lsb,yx      .. b5,rgba,msb,yx      .. b5,abgr,lsb,yx      .. b5,abgr,msb,yx      .. b6,r,lsb,yx         .. b6,r,msb,yx         .. b6,g,lsb,yx         .. b6,g,msb,yx         .. text: "4]SdYQuMU"
+b6,b,lsb,yx         .. b6,b,msb,yx         .. b6,a,lsb,yx         .. b6,a,msb,yx         .. b6,rgb,lsb,yx       .. b6,rgb,msb,yx       .. file: PGP\011Secret Sub-key -
+b6,bgr,lsb,yx       .. b6,bgr,msb,yx       .. b6,rgba,lsb,yx      .. text: "H`?8 ?8 ?0 ? "
+b6,rgba,msb,yx      .. file: PGP\011Secret Sub-key -
+b6,abgr,lsb,yx      .. b6,abgr,msb,yx      .. text: "u?'M?g,?"
+b7,r,lsb,yx         .. b7,r,msb,yx         .. b7,g,lsb,yx         .. b7,g,msb,yx         .. b7,b,lsb,yx         .. b7,b,msb,yx         .. b7,a,lsb,yx         .. b7,a,msb,yx         .. b7,rgb,lsb,yx       .. b7,rgb,msb,yx       .. b7,bgr,lsb,yx       .. b7,bgr,msb,yx       .. b7,rgba,lsb,yx      .. b7,rgba,msb,yx      .. b7,abgr,lsb,yx      .. b7,abgr,msb,yx      .. b8,r,lsb,yx         .. text: "..,((&&& \"$&$\" "
+b8,r,msb,yx         .. text: "T4tttL,ll"
+b8,g,lsb,yx         .. text: "UPLFB><<@<646:>BBBBFHLNPNRX^`hlprttvxz||~"
+b8,g,msb,yx         .. text: "<l,l\\|BBBBb"
+b8,b,lsb,yx         .. b8,b,msb,yx         .. text: "@  @@@ `"
+b8,a,lsb,yx         .. b8,a,msb,yx         .. b8,rgb,lsb,yx       .. text: "Dz\nLv\nPv"
+b8,rgb,msb,yx       .. text: "`D< $l@d,"
+b8,bgr,lsb,yx       .. text: "|F\nzD\nvL"
+b8,bgr,msb,yx       .. text: "t \nt@24@b"
+b8,rgba,lsb,yx      .. b8,rgba,msb,yx      .. b8,abgr,lsb,yx      .. b8,abgr,msb,yx      .. b1,r,lsb,yx,prime   .. b1,r,msb,yx,prime   .. b1,g,lsb,yx,prime   .. b1,g,msb,yx,prime   .. b1,b,lsb,yx,prime   .. b1,b,msb,yx,prime   .. b1,a,lsb,yx,prime   .. b1,a,msb,yx,prime   .. b1,rgb,lsb,yx,prime .. b1,rgb,msb,yx,prime .. b1,bgr,lsb,yx,prime .. b1,bgr,msb,yx,prime .. b1,rgba,lsb,yx,prime.. b1,rgba,msb,yx,prime.. b1,abgr,lsb,yx,prime.. b1,abgr,msb,yx,prime.. b2,r,lsb,yx,prime   .. b2,r,msb,yx,prime   .. file: Hitachi SH little-endian COFF object, not stripped
+b2,g,lsb,yx,prime   .. b2,g,msb,yx,prime   .. b2,b,lsb,yx,prime   .. b2,b,msb,yx,prime   .. text: "@UEPUED@"
+b2,a,lsb,yx,prime   .. b2,a,msb,yx,prime   .. b2,rgb,lsb,yx,prime .. b2,rgb,msb,yx,prime .. text: "QTUPEPAU"
+b2,bgr,lsb,yx,prime .. b2,bgr,msb,yx,prime .. text: "QEAPDA@P"
+b2,rgba,lsb,yx,prime.. b2,rgba,msb,yx,prime.. b2,abgr,lsb,yx,prime.. b2,abgr,msb,yx,prime.. text: "WGGWWWSGSG"
+b3,r,lsb,yx,prime   .. b3,r,msb,yx,prime   .. b3,g,lsb,yx,prime   .. b3,g,msb,yx,prime   .. b3,b,lsb,yx,prime   .. b3,b,msb,yx,prime   .. b3,a,lsb,yx,prime   .. b3,a,msb,yx,prime   .. b3,rgb,lsb,yx,prime .. b3,rgb,msb,yx,prime .. b3,bgr,lsb,yx,prime .. b3,bgr,msb,yx,prime .. b3,rgba,lsb,yx,prime.. b3,rgba,msb,yx,prime.. b3,abgr,lsb,yx,prime.. b3,abgr,msb,yx,prime.. text: "tdGtDGvmOrd"
+b4,r,lsb,yx,prime   .. b4,r,msb,yx,prime   .. text: "u5G 0bVV\""
+b4,g,lsb,yx,prime   .. b4,g,msb,yx,prime   .. text: " ADg1#c25"
+b4,b,lsb,yx,prime   .. text: "$fdd$(F@J\"D"
+b4,b,msb,yx,prime   .. text: "`TvDB WuGtCsq0c %E5&#WGv"
+b4,a,lsb,yx,prime   .. b4,a,msb,yx,prime   .. b4,rgb,lsb,yx,prime .. b4,rgb,msb,yx,prime .. b4,bgr,lsb,yx,prime .. b4,bgr,msb,yx,prime .. b4,rgba,lsb,yx,prime.. b4,rgba,msb,yx,prime.. b4,abgr,lsb,yx,prime.. b4,abgr,msb,yx,prime.. b5,r,lsb,yx,prime   .. b5,r,msb,yx,prime   .. b5,g,lsb,yx,prime   .. b5,g,msb,yx,prime   .. b5,b,lsb,yx,prime   .. b5,b,msb,yx,prime   .. file: a.out little-endian 32-bit pure executable not stripped
+b5,a,lsb,yx,prime   .. b5,a,msb,yx,prime   .. b5,rgb,lsb,yx,prime .. b5,rgb,msb,yx,prime .. b5,bgr,lsb,yx,prime .. text: "\\r)`*@D\t"
+b5,bgr,msb,yx,prime .. b5,rgba,lsb,yx,prime.. b5,rgba,msb,yx,prime.. b5,abgr,lsb,yx,prime.. b5,abgr,msb,yx,prime.. b6,r,lsb,yx,prime   .. b6,r,msb,yx,prime   .. text: "0UU\#$QQx"
+b6,g,lsb,yx,prime   .. b6,g,msb,yx,prime   .. b6,b,lsb,yx,prime   .. b6,b,msb,yx,prime   .. b6,a,lsb,yx,prime   .. b6,a,msb,yx,prime   .. b6,rgb,lsb,yx,prime .. b6,rgb,msb,yx,prime .. b6,bgr,lsb,yx,prime .. b6,bgr,msb,yx,prime .. b6,rgba,lsb,yx,prime.. text: "(!?P ?@ ?["
+b6,rgba,msb,yx,prime.. b6,abgr,lsb,yx,prime.. b6,abgr,msb,yx,prime.. text: "p?Q`?Q\\?"
+b7,r,lsb,yx,prime   .. b7,r,msb,yx,prime   .. text: "T*\rA\"R(x<"
+b7,g,lsb,yx,prime   .. b7,g,msb,yx,prime   .. b7,b,lsb,yx,prime   .. b7,b,msb,yx,prime   .. b7,a,lsb,yx,prime   .. b7,a,msb,yx,prime   .. b7,rgb,lsb,yx,prime .. b7,rgb,msb,yx,prime .. b7,bgr,lsb,yx,prime .. b7,bgr,msb,yx,prime .. b7,rgba,lsb,yx,prime.. b7,rgba,msb,yx,prime.. b7,abgr,lsb,yx,prime.. b7,abgr,msb,yx,prime.. b8,r,lsb,yx,prime   .. text: ",(&&&\"((.8>NZXDZNHZNNJTPVXJFJRNFD>XNF:0$"
+b8,r,msb,yx,prime   .. text: "RbRJrb\"|"
+b8,g,lsb,yx,prime   .. text: "LF><4:BFPhpz"
+b8,g,msb,yx,prime   .. text: "2b|<,\\Bb\n"
+b8,b,lsb,yx,prime   .. text: "BrtbPTNJJ>>2BNLR<Nh^`llV@4*dzrz|"
+b8,b,msb,yx,prime   .. text: "`@P`xBN.F\n*rRR||LBr2J<r"
+b8,a,lsb,yx,prime   .. b8,a,msb,yx,prime   .. b8,rgb,lsb,yx,prime .. b8,rgb,msb,yx,prime .. text: "bn@\". |6"
+b8,bgr,lsb,yx,prime .. b8,bgr,msb,yx,prime .. text: ">r@nb .\""
+b8,rgba,lsb,yx,prime.. b8,rgba,msb,yx,prime.. b8,abgr,lsb,yx,prime.. b8,abgr,msb,yx,prime.. b1,r,lsb,XY         .. b1,r,msb,XY         .. b1,g,lsb,XY         .. b1,g,msb,XY         .. b1,b,lsb,XY         .. b1,b,msb,XY         .. b1,a,lsb,XY         .. b1,a,msb,XY         .. b1,rgb,lsb,XY       .. b1,rgb,msb,XY       .. b1,bgr,lsb,XY       .. b1,bgr,msb,XY       .. b1,rgba,lsb,XY      .. b1,rgba,msb,XY      .. b1,abgr,lsb,XY      .. b1,abgr,msb,XY      .. b2,r,lsb,XY         .. b2,r,msb,XY         .. text: "UUUUUUPT"
+b2,g,lsb,XY         .. b2,g,msb,XY         .. text: "UUPUUUUUT"
+b2,b,lsb,XY         .. b2,b,msb,XY         .. text: "DUTADPAQ"
+b2,a,lsb,XY         .. b2,a,msb,XY         .. b2,rgb,lsb,XY       .. b2,rgb,msb,XY       .. b2,bgr,lsb,XY       .. b2,bgr,msb,XY       .. text: "QQTPTEDD@"
+b2,rgba,lsb,XY      .. b2,rgba,msb,XY      .. b2,abgr,lsb,XY      .. b2,abgr,msb,XY      .. text: "WSSSWWWC"
+b3,r,lsb,XY         .. b3,r,msb,XY         .. b3,g,lsb,XY         .. b3,g,msb,XY         .. file: , rawbits, pixmap
+b3,b,lsb,XY         .. b3,b,msb,XY         .. b3,a,lsb,XY         .. b3,a,msb,XY         .. b3,rgb,lsb,XY       .. b3,rgb,msb,XY       .. b3,bgr,lsb,XY       .. b3,bgr,msb,XY       .. b3,rgba,lsb,XY      .. b3,rgba,msb,XY      .. b3,abgr,lsb,XY      .. b3,abgr,msb,XY      .. b4,r,lsb,XY         .. text: "$$DB \"\"\"\"\"\"\"\"ffffDf"
+b4,r,msb,XY         .. text: "C!D2V5`bf"
+b4,g,lsb,XY         .. text: "\"$DDffdD\"h"
+b4,g,msb,XY         .. text: "DDD\"pwF!!"
+b4,b,lsb,XY         .. text: "D\"$Fdb@("
+b4,b,msb,XY         .. text: "U%c\"17&0ApTwaV5@Bp\"D$b&F"
+b4,a,lsb,XY         .. b4,a,msb,XY         .. b4,rgb,lsb,XY       .. b4,rgb,msb,XY       .. text: "T'%&q3eV\"$1!1Cw2"
+b4,bgr,lsb,XY       .. b4,bgr,msb,XY       .. text: "%'&sa5R&$11!G3r"
+b4,rgba,lsb,XY      .. b4,rgba,msb,XY      .. b4,abgr,lsb,XY      .. b4,abgr,msb,XY      .. text: "/4/4O4O4O4/4/rorop/woGO"
+b5,r,lsb,XY         .. b5,r,msb,XY         .. b5,g,lsb,XY         .. b5,g,msb,XY         .. b5,b,lsb,XY         .. b5,b,msb,XY         .. b5,a,lsb,XY         .. b5,a,msb,XY         .. b5,rgb,lsb,XY       .. b5,rgb,msb,XY       .. b5,bgr,lsb,XY       .. b5,bgr,msb,XY       .. b5,rgba,lsb,XY      .. b5,rgba,msb,XY      .. b5,abgr,lsb,XY      .. b5,abgr,msb,XY      .. b6,r,lsb,XY         .. b6,r,msb,XY         .. file: PGP\011Secret Key -
+b6,g,lsb,XY         .. b6,g,msb,XY         .. text: "5MSUMSUU"
+b6,b,lsb,XY         .. b6,b,msb,XY         .. text: "uEQUUUUUU"
+b6,a,lsb,XY         .. b6,a,msb,XY         .. b6,rgb,lsb,XY       .. b6,rgb,msb,XY       .. b6,bgr,lsb,XY       .. b6,bgr,msb,XY       .. b6,rgba,lsb,XY      .. b6,rgba,msb,XY      .. b6,abgr,lsb,XY      .. b6,abgr,msb,XY      .. text: "?F1?Bi?\"%?"
+b7,r,lsb,XY         .. b7,r,msb,XY         .. b7,g,lsb,XY         .. b7,g,msb,XY         .. b7,b,lsb,XY         .. b7,b,msb,XY         .. b7,a,lsb,XY         .. b7,a,msb,XY         .. b7,rgb,lsb,XY       .. b7,rgb,msb,XY       .. b7,bgr,lsb,XY       .. text: ",%\taHK\nD\\Z\""
+b7,bgr,msb,XY       .. text: "*\\BA\ti(!\r)"
+b7,rgba,lsb,XY      .. b7,rgba,msb,XY      .. b7,abgr,lsb,XY      .. b7,abgr,msb,XY      .. b8,r,lsb,XY         .. text: "$8DLN>8,\""
+b8,r,msb,XY         .. text: "(HH(8dTT4"
+b8,g,lsb,XY         .. text: "$&(,226<BFHHHBBBBBBDD@>>>62Hdx"
+b8,g,msb,XY         .. text: "D(hpPPH8"
+b8,b,lsb,XY         .. file: PAK archive data
+b8,b,msb,XY         .. text: "XPP(0`  "
+b8,a,lsb,XY         .. b8,a,msb,XY         .. b8,rgb,lsb,XY       .. text: ">@&8:$,, \" "
+b8,rgb,msb,XY       .. text: "DPp(P(h("
+b8,bgr,lsb,XY       .. text: "4N&@>$:8 ,,"
+b8,bgr,msb,XY       .. text: "P(p(h(0p"
+b8,rgba,lsb,XY      .. b8,rgba,msb,XY      .. b8,abgr,lsb,XY      .. b8,abgr,msb,XY      .. b1,r,lsb,XY,prime   .. b1,r,msb,XY,prime   .. b1,g,lsb,XY,prime   .. b1,g,msb,XY,prime   .. b1,b,lsb,XY,prime   .. b1,b,msb,XY,prime   .. b1,a,lsb,XY,prime   .. b1,a,msb,XY,prime   .. b1,rgb,lsb,XY,prime .. b1,rgb,msb,XY,prime .. b1,bgr,lsb,XY,prime .. b1,bgr,msb,XY,prime .. b1,rgba,lsb,XY,prime.. b1,rgba,msb,XY,prime.. b1,abgr,lsb,XY,prime.. b1,abgr,msb,XY,prime.. b2,r,lsb,XY,prime   .. b2,r,msb,XY,prime   .. b2,g,lsb,XY,prime   .. b2,g,msb,XY,prime   .. text: "EUA@EQ@E"
+b2,b,lsb,XY,prime   .. b2,b,msb,XY,prime   .. b2,a,lsb,XY,prime   .. b2,a,msb,XY,prime   .. b2,rgb,lsb,XY,prime .. b2,rgb,msb,XY,prime .. text: "T@PADQAU"
+b2,bgr,lsb,XY,prime .. b2,bgr,msb,XY,prime .. b2,rgba,lsb,XY,prime.. b2,rgba,msb,XY,prime.. b2,abgr,lsb,XY,prime.. b2,abgr,msb,XY,prime.. b3,r,lsb,XY,prime   .. text: "Ah\"IE0P%"
+b3,r,msb,XY,prime   .. b3,g,lsb,XY,prime   .. b3,g,msb,XY,prime   .. b3,b,lsb,XY,prime   .. text: "ZH I, \t@"
+b3,b,msb,XY,prime   .. text: "Q&@@&%K0i"
+b3,a,lsb,XY,prime   .. b3,a,msb,XY,prime   .. b3,rgb,lsb,XY,prime .. b3,rgb,msb,XY,prime .. b3,bgr,lsb,XY,prime .. b3,bgr,msb,XY,prime .. b3,rgba,lsb,XY,prime.. text: "K|7[q7C}'"
+b3,rgba,msb,XY,prime.. b3,abgr,lsb,XY,prime.. b3,abgr,msb,XY,prime.. text: "pmGrhWpd_"
+b4,r,lsb,XY,prime   .. b4,r,msb,XY,prime   .. text: "qspS3U#5bDv`U#&76"
+b4,g,lsb,XY,prime   .. b4,g,msb,XY,prime   .. text: "@aw@!$r3D"
+b4,b,lsb,XY,prime   .. b4,b,msb,XY,prime   .. text: "%&#t7$b$"
+b4,a,lsb,XY,prime   .. b4,a,msb,XY,prime   .. b4,rgb,lsb,XY,prime .. b4,rgb,msb,XY,prime .. text: "%BDp%g6F4$Crbq"
+b4,bgr,lsb,XY,prime .. b4,bgr,msb,XY,prime .. text: "%'&V\#$#'"
+b4,rgba,lsb,XY,prime.. text: " O /`O`ObO"
+b4,rgba,msb,XY,prime.. b4,abgr,lsb,XY,prime.. b4,abgr,msb,XY,prime.. text: "_r/&o5/$?r/"
+b5,r,lsb,XY,prime   .. b5,r,msb,XY,prime   .. b5,g,lsb,XY,prime   .. b5,g,msb,XY,prime   .. b5,b,lsb,XY,prime   .. b5,b,msb,XY,prime   .. b5,a,lsb,XY,prime   .. b5,a,msb,XY,prime   .. b5,rgb,lsb,XY,prime .. b5,rgb,msb,XY,prime .. b5,bgr,lsb,XY,prime .. b5,bgr,msb,XY,prime .. b5,rgba,lsb,XY,prime.. b5,rgba,msb,XY,prime.. b5,abgr,lsb,XY,prime.. b5,abgr,msb,XY,prime.. b6,r,lsb,XY,prime   .. b6,r,msb,XY,prime   .. b6,g,lsb,XY,prime   .. b6,g,msb,XY,prime   .. text: "LQ2,C7UCQUMRH"
+b6,b,lsb,XY,prime   .. b6,b,msb,XY,prime   .. text: "iVPTURDI"
+b6,a,lsb,XY,prime   .. b6,a,msb,XY,prime   .. b6,rgb,lsb,XY,prime .. b6,rgb,msb,XY,prime .. text: "EPuE3TMWU]"
+b6,bgr,lsb,XY,prime .. b6,bgr,msb,XY,prime .. text: "!I\n'H\\R1"
+b6,rgba,lsb,XY,prime.. b6,rgba,msb,XY,prime.. b6,abgr,lsb,XY,prime.. b6,abgr,msb,XY,prime.. text: ")?F1?\"%?"
+b7,r,lsb,XY,prime   .. b7,r,msb,XY,prime   .. b7,g,lsb,XY,prime   .. b7,g,msb,XY,prime   .. b7,b,lsb,XY,prime   .. b7,b,msb,XY,prime   .. b7,a,lsb,XY,prime   .. b7,a,msb,XY,prime   .. b7,rgb,lsb,XY,prime .. b7,rgb,msb,XY,prime .. b7,bgr,lsb,XY,prime .. b7,bgr,msb,XY,prime .. text: "B6JHC\tih"
+b7,rgba,lsb,XY,prime.. b7,rgba,msb,XY,prime.. b7,abgr,lsb,XY,prime.. b7,abgr,msb,XY,prime.. b8,r,lsb,XY,prime   .. text: "&D\\Z\\`jr"
+b8,r,msb,XY,prime   .. text: "(HTll44t"
+b8,g,lsb,XY,prime   .. text: " ,<\\`^Zfx"
+b8,g,msb,XY,prime   .. text: "$lBBB\"|!$HP"
+b8,b,lsb,XY,prime   .. text: "rnjXJ<R8^R"
+b8,b,msb,XY,prime   .. text: "P(` 0$Hpp0H((hH,h"
+b8,a,lsb,XY,prime   .. b8,a,msb,XY,prime   .. b8,rgb,lsb,XY,prime .. text: "\\\\HZ`X\\^X`ZZjf`rxj"
+b8,rgb,msb,XY,prime .. text: "p(P(h(0P`$H r,0"
+b8,bgr,lsb,XY,prime .. text: "<DH\\\\X`ZX^\\ZZ``fjjxr"
+b8,bgr,msb,XY,prime .. text: "P(p(h(`P0 H$0,r$\\"
+b8,rgba,lsb,XY,prime.. b8,rgba,msb,XY,prime.. b8,abgr,lsb,XY,prime.. b8,abgr,msb,XY,prime.. b1,r,lsb,YX         .. b1,r,msb,YX         .. b1,g,lsb,YX         .. b1,g,msb,YX         .. b1,b,lsb,YX         .. b1,b,msb,YX         .. b1,a,lsb,YX         .. b1,a,msb,YX         .. b1,rgb,lsb,YX       .. b1,rgb,msb,YX       .. b1,bgr,lsb,YX       .. b1,bgr,msb,YX       .. b1,rgba,lsb,YX      .. b1,rgba,msb,YX      .. b1,abgr,lsb,YX      .. b1,abgr,msb,YX      .. b2,r,lsb,YX         .. b2,r,msb,YX         .. b2,g,lsb,YX         .. b2,g,msb,YX         .. text: "@ETPTTTQ"
+b2,b,lsb,YX         .. b2,b,msb,YX         .. text: "A@UD@UA@T"
+b2,a,lsb,YX         .. b2,a,msb,YX         .. b2,rgb,lsb,YX       .. b2,rgb,msb,YX       .. text: "QPA@TAEU"
+b2,bgr,lsb,YX       .. b2,bgr,msb,YX       .. text: "DQQTDEUEAP"
+b2,rgba,lsb,YX      .. b2,rgba,msb,YX      .. b2,abgr,lsb,YX      .. b2,abgr,msb,YX      .. b3,r,lsb,YX         .. b3,r,msb,YX         .. b3,g,lsb,YX         .. b3,g,msb,YX         .. b3,b,lsb,YX         .. b3,b,msb,YX         .. b3,a,lsb,YX         .. b3,a,msb,YX         .. b3,rgb,lsb,YX       .. b3,rgb,msb,YX       .. b3,bgr,lsb,YX       .. b3,bgr,msb,YX       .. b3,rgba,lsb,YX      .. b3,rgba,msb,YX      .. b3,abgr,lsb,YX      .. b3,abgr,msb,YX      .. b4,r,lsb,YX         .. b4,r,msb,YX         .. text: "&p@ #`3r"
+b4,g,lsb,YX         .. b4,g,msb,YX         .. text: "1rwwpUR661a6"
+b4,b,lsb,YX         .. text: "fhfhfdFfdDffF"
+b4,b,msb,YX         .. text: "dtg@Ra$B"
+b4,a,lsb,YX         .. b4,a,msb,YX         .. b4,rgb,lsb,YX       .. b4,rgb,msb,YX       .. text: "3& gpr'pBg"
+b4,bgr,lsb,YX       .. b4,bgr,msb,YX       .. text: " f'r wr`G"
+b4,rgba,lsb,YX      .. b4,rgba,msb,YX      .. b4,abgr,lsb,YX      .. b4,abgr,msb,YX      .. text: "oEO0/3/$O`"
+b5,r,lsb,YX         .. b5,r,msb,YX         .. b5,g,lsb,YX         .. b5,g,msb,YX         .. b5,b,lsb,YX         .. b5,b,msb,YX         .. b5,a,lsb,YX         .. b5,a,msb,YX         .. b5,rgb,lsb,YX       .. b5,rgb,msb,YX       .. b5,bgr,lsb,YX       .. b5,bgr,msb,YX       .. b5,rgba,lsb,YX      .. b5,rgba,msb,YX      .. b5,abgr,lsb,YX      .. b5,abgr,msb,YX      .. b6,r,lsb,YX         .. b6,r,msb,YX         .. b6,g,lsb,YX         .. b6,g,msb,YX         .. text: "dyQQdV6L"
+b6,b,lsb,YX         .. b6,b,msb,YX         .. b6,a,lsb,YX         .. b6,a,msb,YX         .. b6,rgb,lsb,YX       .. text: "Ja0:A(+g"
+b6,rgb,msb,YX       .. b6,bgr,lsb,YX       .. b6,bgr,msb,YX       .. b6,rgba,lsb,YX      .. b6,rgba,msb,YX      .. b6,abgr,lsb,YX      .. b6,abgr,msb,YX      .. text: "\t?AH?A)?Ai?"
+b7,r,lsb,YX         .. b7,r,msb,YX         .. b7,g,lsb,YX         .. b7,g,msb,YX         .. b7,b,lsb,YX         .. b7,b,msb,YX         .. b7,a,lsb,YX         .. b7,a,msb,YX         .. b7,rgb,lsb,YX       .. b7,rgb,msb,YX       .. b7,bgr,lsb,YX       .. b7,bgr,msb,YX       .. b7,rgba,lsb,YX      .. b7,rgba,msb,YX      .. b7,abgr,lsb,YX      .. b7,abgr,msb,YX      .. b8,r,lsb,YX         .. text: "*8FD@>@B@DLT`f\\LDNJ@>@BH\\\\bbH2,,$"
+b8,r,msb,YX         .. text: "H(hhX8$TlBr"
+b8,g,lsb,YX         .. text: "8Ldnnnnnpnjjtzvlflh\\XVV\\^`lpV:0,\""
+b8,g,msb,YX         .. text: "vVV.^n6f6"
+b8,b,lsb,YX         .. text: ",@FDDDFJ<("
+b8,b,msb,YX         .. text: " $RrBTHPP0p((h"
+b8,a,lsb,YX         .. b8,a,msb,YX         .. b8,rgb,lsb,YX       .. text: "8L,Fd@DnF@nD>nD@nDBnF@pJDn<Lj(Tj"
+b8,rgb,msb,YX       .. text: ".Xf^d:n426"
+b8,bgr,lsb,YX       .. text: "8*,L8@dFFnDDn@Dn>Dn@FnBJp@<nD(jL"
+b8,bgr,msb,YX       .. text: "4 44(D$@"
+b8,rgba,lsb,YX      .. b8,rgba,msb,YX      .. b8,abgr,lsb,YX      .. b8,abgr,msb,YX      .. b1,r,lsb,YX,prime   .. b1,r,msb,YX,prime   .. b1,g,lsb,YX,prime   .. b1,g,msb,YX,prime   .. b1,b,lsb,YX,prime   .. b1,b,msb,YX,prime   .. b1,a,lsb,YX,prime   .. b1,a,msb,YX,prime   .. b1,rgb,lsb,YX,prime .. b1,rgb,msb,YX,prime .. b1,bgr,lsb,YX,prime .. b1,bgr,msb,YX,prime .. b1,rgba,lsb,YX,prime.. b1,rgba,msb,YX,prime.. b1,abgr,lsb,YX,prime.. b1,abgr,msb,YX,prime.. b2,r,lsb,YX,prime   .. text: "((\n\n\"*\n\" (*"
+b2,r,msb,YX,prime   .. b2,g,lsb,YX,prime   .. b2,g,msb,YX,prime   .. b2,b,lsb,YX,prime   .. b2,b,msb,YX,prime   .. b2,a,lsb,YX,prime   .. b2,a,msb,YX,prime   .. b2,rgb,lsb,YX,prime .. b2,rgb,msb,YX,prime .. b2,bgr,lsb,YX,prime .. b2,bgr,msb,YX,prime .. text: "UUU@TA@U"
+b2,rgba,lsb,YX,prime.. b2,rgba,msb,YX,prime.. b2,abgr,lsb,YX,prime.. b2,abgr,msb,YX,prime.. text: "GCWSCWCSCG"
+b3,r,lsb,YX,prime   .. b3,r,msb,YX,prime   .. b3,g,lsb,YX,prime   .. b3,g,msb,YX,prime   .. b3,b,lsb,YX,prime   .. b3,b,msb,YX,prime   .. b3,a,lsb,YX,prime   .. b3,a,msb,YX,prime   .. b3,rgb,lsb,YX,prime .. b3,rgb,msb,YX,prime .. text: "mH (J4EP"
+b3,bgr,lsb,YX,prime .. b3,bgr,msb,YX,prime .. b3,rgba,lsb,YX,prime.. b3,rgba,msb,YX,prime.. b3,abgr,lsb,YX,prime.. b3,abgr,msb,YX,prime.. b4,r,lsb,YX,prime   .. b4,r,msb,YX,prime   .. text: "rvaUCtvTT$"
+b4,g,lsb,YX,prime   .. b4,g,msb,YX,prime   .. text: "rwU3S#fc$"
+b4,b,lsb,YX,prime   .. b4,b,msb,YX,prime   .. text: "%PF!1DP3tRs"
+b4,a,lsb,YX,prime   .. b4,a,msb,YX,prime   .. b4,rgb,lsb,YX,prime .. b4,rgb,msb,YX,prime .. text: "& gwBgRae7"
+b4,bgr,lsb,YX,prime .. b4,bgr,msb,YX,prime .. text: " f'rgGQbe1g"
+b4,rgba,lsb,YX,prime.. text: "ofohOH/\n"
+b4,rgba,msb,YX,prime.. b4,abgr,lsb,YX,prime.. b4,abgr,msb,YX,prime.. text: "b_g?B?TOG"
+b5,r,lsb,YX,prime   .. b5,r,msb,YX,prime   .. text: " X{\"4rFSi 3TK"
+b5,g,lsb,YX,prime   .. b5,g,msb,YX,prime   .. b5,b,lsb,YX,prime   .. file: Tower/XP rel 2 object
+b5,b,msb,YX,prime   .. b5,a,lsb,YX,prime   .. b5,a,msb,YX,prime   .. b5,rgb,lsb,YX,prime .. text: "\nSX   \n@e"
+b5,rgb,msb,YX,prime .. b5,bgr,lsb,YX,prime .. b5,bgr,msb,YX,prime .. b5,rgba,lsb,YX,prime.. b5,rgba,msb,YX,prime.. b5,abgr,lsb,YX,prime.. b5,abgr,msb,YX,prime.. b6,r,lsb,YX,prime   .. b6,r,msb,YX,prime   .. file: zlib compressed data
+b6,g,lsb,YX,prime   .. b6,g,msb,YX,prime   .. text: "%hNF@X0@"
+b6,b,lsb,YX,prime   .. b6,b,msb,YX,prime   .. b6,a,lsb,YX,prime   .. b6,a,msb,YX,prime   .. b6,rgb,lsb,YX,prime .. b6,rgb,msb,YX,prime .. b6,bgr,lsb,YX,prime .. b6,bgr,msb,YX,prime .. b6,rgba,lsb,YX,prime.. text: "F?0b?@b?X"
+b6,rgba,msb,YX,prime.. b6,abgr,lsb,YX,prime.. b6,abgr,msb,YX,prime.. text: "'D?P<?V}?"
+b7,r,lsb,YX,prime   .. b7,r,msb,YX,prime   .. text: "J>C $a`0"
+b7,g,lsb,YX,prime   .. b7,g,msb,YX,prime   .. b7,b,lsb,YX,prime   .. b7,b,msb,YX,prime   .. b7,a,lsb,YX,prime   .. b7,a,msb,YX,prime   .. b7,rgb,lsb,YX,prime .. b7,rgb,msb,YX,prime .. text: ".VY1f/Yn"
+b7,bgr,lsb,YX,prime .. b7,bgr,msb,YX,prime .. b7,rgba,lsb,YX,prime.. b7,rgba,msb,YX,prime.. b7,abgr,lsb,YX,prime.. b7,abgr,msb,YX,prime.. b8,r,lsb,YX,prime   .. text: "FD>BTfN@H2,*"
+b8,r,msb,YX,prime   .. text: ":hhDTL3GiIq<"
+b8,g,lsb,YX,prime   .. text: "dnnnjzl\\\\:,$"
+b8,g,msb,YX,prime   .. text: "&vvvV^6::\\4$``0dL$J"
+b8,b,lsb,YX,prime   .. b8,b,msb,YX,prime   .. text: "P00@~)R2rL"
+b8,a,lsb,YX,prime   .. b8,a,msb,YX,prime   .. b8,rgb,lsb,YX,prime .. text: "Fd@DnF>nDBnFTj"
+b8,rgb,msb,YX,prime .. text: "\"vb|v\"Bvb*V"
+b8,bgr,lsb,YX,prime .. text: "@dFFnDDn>FnB"
+b8,bgr,msb,YX,prime .. file: IRIS Showcase template - version 98
+b8,rgba,lsb,YX,prime.. b8,rgba,msb,YX,prime.. b8,abgr,lsb,YX,prime.. b8,abgr,msb,YX,prime.. b1,r,lsb,Xy         .. b1,r,msb,Xy         .. b1,g,lsb,Xy         .. b1,g,msb,Xy         .. b1,b,lsb,Xy         .. b1,b,msb,Xy         .. b1,a,lsb,Xy         .. b1,a,msb,Xy         .. b1,rgb,lsb,Xy       .. b1,rgb,msb,Xy       .. b1,bgr,lsb,Xy       .. b1,bgr,msb,Xy       .. b1,rgba,lsb,Xy      .. b1,rgba,msb,Xy      .. b1,abgr,lsb,Xy      .. b1,abgr,msb,Xy      .. b2,r,lsb,Xy         .. b2,r,msb,Xy         .. b2,g,lsb,Xy         .. b2,g,msb,Xy         .. b2,b,lsb,Xy         .. b2,b,msb,Xy         .. text: "AE@TUETT"
+b2,a,lsb,Xy         .. b2,a,msb,Xy         .. b2,rgb,lsb,Xy       .. file: SoftQuad DESC or font file binary - version 8362
+b2,rgb,msb,Xy       .. file: VISX image file
+b2,bgr,lsb,Xy       .. file: SoftQuad DESC or font file binary - version 8874
+b2,bgr,msb,Xy       .. file: VISX image file
+b2,rgba,lsb,Xy      .. b2,rgba,msb,Xy      .. b2,abgr,lsb,Xy      .. b2,abgr,msb,Xy      .. b3,r,lsb,Xy         .. b3,r,msb,Xy         .. b3,g,lsb,Xy         .. text: "$JD\"P! I!"
+b3,g,msb,Xy         .. text: "mB0$R\"D\n"
+b3,b,lsb,Xy         .. b3,b,msb,Xy         .. b3,a,lsb,Xy         .. b3,a,msb,Xy         .. b3,rgb,lsb,Xy       .. b3,rgb,msb,Xy       .. b3,bgr,lsb,Xy       .. b3,bgr,msb,Xy       .. b3,rgba,lsb,Xy      .. b3,rgba,msb,Xy      .. b3,abgr,lsb,Xy      .. b3,abgr,msb,Xy      .. file: PGP\011Secret Sub-key -
+b4,r,lsb,Xy         .. b4,r,msb,Xy         .. text: "G\"B0AesTG"
+b4,g,lsb,Xy         .. b4,g,msb,Xy         .. text: "`u@\"BDB0vTff&B"
+b4,b,lsb,Xy         .. file: SoftQuad DESC or font file binary
+b4,b,msb,Xy         .. file: VISX image file
+b4,a,lsb,Xy         .. b4,a,msb,Xy         .. b4,rgb,lsb,Xy       .. b4,rgb,msb,Xy       .. text: "FeTFeTQ!ap"
+b4,bgr,lsb,Xy       .. b4,bgr,msb,Xy       .. text: "EVdEVdQa!w "
+b4,rgba,lsb,Xy      .. text: "$/&/H/L/n"
+b4,rgba,msb,Xy      .. b4,abgr,lsb,Xy      .. b4,abgr,msb,Xy      .. text: "_d_d_d_d"
+b5,r,lsb,Xy         .. text: " f1JA9iJ"
+b5,r,msb,Xy         .. b5,g,lsb,Xy         .. b5,g,msb,Xy         .. b5,b,lsb,Xy         .. b5,b,msb,Xy         .. b5,a,lsb,Xy         .. b5,a,msb,Xy         .. b5,rgb,lsb,Xy       .. b5,rgb,msb,Xy       .. b5,bgr,lsb,Xy       .. b5,bgr,msb,Xy       .. b5,rgba,lsb,Xy      .. b5,rgba,msb,Xy      .. b5,abgr,lsb,Xy      .. b5,abgr,msb,Xy      .. b6,r,lsb,Xy         .. b6,r,msb,Xy         .. text: "%EU5EQdY"
+b6,g,lsb,Xy         .. b6,g,msb,Xy         .. text: "w-CSdEQ5"
+b6,b,lsb,Xy         .. b6,b,msb,Xy         .. b6,a,lsb,Xy         .. b6,a,msb,Xy         .. b6,rgb,lsb,Xy       .. b6,rgb,msb,Xy       .. b6,bgr,lsb,Xy       .. b6,bgr,msb,Xy       .. b6,rgba,lsb,Xy      .. text: "1&?I'?AG?1'?\t"
+b6,rgba,msb,Xy      .. b6,abgr,lsb,Xy      .. b6,abgr,msb,Xy      .. text: "5? 4?$u?"
+b7,r,lsb,Xy         .. b7,r,msb,Xy         .. b7,g,lsb,Xy         .. b7,g,msb,Xy         .. b7,b,lsb,Xy         .. b7,b,msb,Xy         .. b7,a,lsb,Xy         .. b7,a,msb,Xy         .. b7,rgb,lsb,Xy       .. b7,rgb,msb,Xy       .. b7,bgr,lsb,Xy       .. b7,bgr,msb,Xy       .. b7,rgba,lsb,Xy      .. b7,rgba,msb,Xy      .. b7,abgr,lsb,Xy      .. b7,abgr,msb,Xy      .. b8,r,lsb,Xy         .. text: "  $(,,.24HHLRPLB:&"
+b8,r,msb,Xy         .. text: "2J\n2B\\dxhp0pppH"
+b8,g,lsb,Xy         .. text: "bbbbZXND<8<@@FJNPRTTTRRRTRPLF>2*&&&&&$$\"\" "
+b8,g,msb,Xy         .. text: "bRr\nJ***JJJ*J\n2b|LTddddd$$DD"
+b8,b,lsb,Xy         .. text: ["\n" repeated 8 times]
+b8,b,msb,Xy         .. text: "888X(8(P "
+b8,a,lsb,Xy         .. b8,a,msb,Xy         .. b8,rgb,lsb,Xy       .. text: "<L&8L&2J&.J&\"B"
+b8,rgb,msb,Xy       .. text: "lFXlFXlFXlFX"
+b8,bgr,lsb,Xy       .. text: "@4&L<&L8&J2&J."
+b8,bgr,msb,Xy       .. text: "XFlXFlXFlXFl"
+b8,rgba,lsb,Xy      .. b8,rgba,msb,Xy      .. b8,abgr,lsb,Xy      .. b8,abgr,msb,Xy      .. b1,r,lsb,Xy,prime   .. b1,r,msb,Xy,prime   .. b1,g,lsb,Xy,prime   .. b1,g,msb,Xy,prime   .. b1,b,lsb,Xy,prime   .. b1,b,msb,Xy,prime   .. b1,a,lsb,Xy,prime   .. b1,a,msb,Xy,prime   .. b1,rgb,lsb,Xy,prime .. b1,rgb,msb,Xy,prime .. b1,bgr,lsb,Xy,prime .. b1,bgr,msb,Xy,prime .. b1,rgba,lsb,Xy,prime.. b1,rgba,msb,Xy,prime.. b1,abgr,lsb,Xy,prime.. b1,abgr,msb,Xy,prime.. b2,r,lsb,Xy,prime   .. file: Applesoft BASIC program data, first line number 168
+b2,r,msb,Xy,prime   .. text: "DPUUQUDED"
+b2,g,lsb,Xy,prime   .. b2,g,msb,Xy,prime   .. b2,b,lsb,Xy,prime   .. b2,b,msb,Xy,prime   .. b2,a,lsb,Xy,prime   .. b2,a,msb,Xy,prime   .. b2,rgb,lsb,Xy,prime .. b2,rgb,msb,Xy,prime .. b2,bgr,lsb,Xy,prime .. b2,bgr,msb,Xy,prime .. b2,rgba,lsb,Xy,prime.. b2,rgba,msb,Xy,prime.. b2,abgr,lsb,Xy,prime.. b2,abgr,msb,Xy,prime.. b3,r,lsb,Xy,prime   .. b3,r,msb,Xy,prime   .. b3,g,lsb,Xy,prime   .. b3,g,msb,Xy,prime   .. b3,b,lsb,Xy,prime   .. b3,b,msb,Xy,prime   .. b3,a,lsb,Xy,prime   .. b3,a,msb,Xy,prime   .. b3,rgb,lsb,Xy,prime .. b3,rgb,msb,Xy,prime .. b3,bgr,lsb,Xy,prime .. b3,bgr,msb,Xy,prime .. b3,rgba,lsb,Xy,prime.. b3,rgba,msb,Xy,prime.. b3,abgr,lsb,Xy,prime.. b3,abgr,msb,Xy,prime.. file: PGP\011Secret Sub-key -
+b4,r,lsb,Xy,prime   .. b4,r,msb,Xy,prime   .. text: "Cu5B\"F4d"
+b4,g,lsb,Xy,prime   .. b4,g,msb,Xy,prime   .. text: "vDf7u&2s @"
+b4,b,lsb,Xy,prime   .. b4,b,msb,Xy,prime   .. text: "6&#%\"'%S"
+b4,a,lsb,Xy,prime   .. b4,a,msb,Xy,prime   .. b4,rgb,lsb,Xy,prime .. b4,rgb,msb,Xy,prime .. text: "bA@eqdug"
+b4,bgr,lsb,Xy,prime .. b4,bgr,msb,Xy,prime .. text: "&Dw\"C$wR"
+b4,rgba,lsb,Xy,prime.. b4,rgba,msb,Xy,prime.. b4,abgr,lsb,Xy,prime.. b4,abgr,msb,Xy,prime.. text: "od/ToF/6"
+b5,r,lsb,Xy,prime   .. b5,r,msb,Xy,prime   .. b5,g,lsb,Xy,prime   .. b5,g,msb,Xy,prime   .. b5,b,lsb,Xy,prime   .. b5,b,msb,Xy,prime   .. b5,a,lsb,Xy,prime   .. b5,a,msb,Xy,prime   .. b5,rgb,lsb,Xy,prime .. b5,rgb,msb,Xy,prime .. b5,bgr,lsb,Xy,prime .. b5,bgr,msb,Xy,prime .. b5,rgba,lsb,Xy,prime.. b5,rgba,msb,Xy,prime.. b5,abgr,lsb,Xy,prime.. b5,abgr,msb,Xy,prime.. b6,r,lsb,Xy,prime   .. b6,r,msb,Xy,prime   .. b6,g,lsb,Xy,prime   .. b6,g,msb,Xy,prime   .. b6,b,lsb,Xy,prime   .. b6,b,msb,Xy,prime   .. b6,a,lsb,Xy,prime   .. b6,a,msb,Xy,prime   .. b6,rgb,lsb,Xy,prime .. b6,rgb,msb,Xy,prime .. b6,bgr,lsb,Xy,prime .. b6,bgr,msb,Xy,prime .. b6,rgba,lsb,Xy,prime.. b6,rgba,msb,Xy,prime.. b6,abgr,lsb,Xy,prime.. b6,abgr,msb,Xy,prime.. text: ",?0p?4X?"
+b7,r,lsb,Xy,prime   .. b7,r,msb,Xy,prime   .. b7,g,lsb,Xy,prime   .. b7,g,msb,Xy,prime   .. b7,b,lsb,Xy,prime   .. b7,b,msb,Xy,prime   .. b7,a,lsb,Xy,prime   .. b7,a,msb,Xy,prime   .. b7,rgb,lsb,Xy,prime .. b7,rgb,msb,Xy,prime .. b7,bgr,lsb,Xy,prime .. b7,bgr,msb,Xy,prime .. text: "r*BEF(Ip!"
+b7,rgba,lsb,Xy,prime.. b7,rgba,msb,Xy,prime.. b7,abgr,lsb,Xy,prime.. b7,abgr,msb,Xy,prime.. b8,r,lsb,Xy,prime   .. text: "<FZNRBB "
+b8,r,msb,Xy,prime   .. text: "8$8DL,pX"
+b8,g,lsb,Xy,prime   .. text: "bbXD@FRTR>*$ "
+b8,g,msb,Xy,prime   .. text: "lX4|B4LB4"
+b8,b,lsb,Xy,prime   .. b8,b,msb,Xy,prime   .. text: "`pP`dp80`t"
+b8,a,lsb,Xy,prime   .. b8,a,msb,Xy,prime   .. b8,rgb,lsb,Xy,prime .. b8,rgb,msb,Xy,prime .. text: "tJ@,*pJJ8x|(pT "
+b8,bgr,lsb,Xy,prime .. b8,bgr,msb,Xy,prime .. text: "b$@Jtp*,8JJ(|x Tp"
+b8,rgba,lsb,Xy,prime.. b8,rgba,msb,Xy,prime.. b8,abgr,lsb,Xy,prime.. b8,abgr,msb,Xy,prime.. b1,r,lsb,yX         .. b1,r,msb,yX         .. b1,g,lsb,yX         .. b1,g,msb,yX         .. b1,b,lsb,yX         .. b1,b,msb,yX         .. b1,a,lsb,yX         .. b1,a,msb,yX         .. b1,rgb,lsb,yX       .. b1,rgb,msb,yX       .. b1,bgr,lsb,yX       .. b1,bgr,msb,yX       .. b1,rgba,lsb,yX      .. b1,rgba,msb,yX      .. b1,abgr,lsb,yX      .. b1,abgr,msb,yX      .. b2,r,lsb,yX         .. b2,r,msb,yX         .. b2,g,lsb,yX         .. b2,g,msb,yX         .. b2,b,lsb,yX         .. b2,b,msb,yX         .. b2,a,lsb,yX         .. b2,a,msb,yX         .. b2,rgb,lsb,yX       .. file: SoftQuad DESC or font file binary
+b2,rgb,msb,yX       .. file: VISX image file
+b2,bgr,lsb,yX       .. file: SoftQuad DESC or font file binary
+b2,bgr,msb,yX       .. file: VISX image file
+b2,rgba,lsb,yX      .. b2,rgba,msb,yX      .. b2,abgr,lsb,yX      .. b2,abgr,msb,yX      .. text: ["C" repeated 8 times]
+b3,r,lsb,yX         .. b3,r,msb,yX         .. b3,g,lsb,yX         .. b3,g,msb,yX         .. b3,b,lsb,yX         .. b3,b,msb,yX         .. b3,a,lsb,yX         .. b3,a,msb,yX         .. b3,rgb,lsb,yX       .. b3,rgb,msb,yX       .. b3,bgr,lsb,yX       .. b3,bgr,msb,yX       .. b3,rgba,lsb,yX      .. b3,rgba,msb,yX      .. b3,abgr,lsb,yX      .. b3,abgr,msb,yX      .. file: PGP\011Secret Sub-key -
+b4,r,lsb,yX         .. text: "dFhffd\"fdB\"\"\" "
+b4,r,msb,yX         .. text: "0UUSB$Q!"
+b4,g,lsb,yX         .. text: "DD\"\"DFFfdFDDf"
+b4,g,msb,yX         .. text: "$f &Aa1wEA0s"
+b4,b,lsb,yX         .. text: "f\"\"   \"@"
+b4,b,msb,yX         .. text: "4gucCS3\"\"D"
+b4,a,lsb,yX         .. b4,a,msb,yX         .. b4,rgb,lsb,yX       .. b4,rgb,msb,yX       .. text: "#C5ra`664'"
+b4,bgr,lsb,yX       .. b4,bgr,msb,yX       .. text: "g#3Eqb`664'W"
+b4,rgba,lsb,yX      .. b4,rgba,msb,yX      .. b4,abgr,lsb,yX      .. b4,abgr,msb,yX      .. text: "o0OSOQOQOQO5"
+b5,r,lsb,yX         .. b5,r,msb,yX         .. b5,g,lsb,yX         .. b5,g,msb,yX         .. b5,b,lsb,yX         .. b5,b,msb,yX         .. b5,a,lsb,yX         .. b5,a,msb,yX         .. b5,rgb,lsb,yX       .. b5,rgb,msb,yX       .. b5,bgr,lsb,yX       .. b5,bgr,msb,yX       .. b5,rgba,lsb,yX      .. b5,rgba,msb,yX      .. b5,abgr,lsb,yX      .. b5,abgr,msb,yX      .. b6,r,lsb,yX         .. b6,r,msb,yX         .. b6,g,lsb,yX         .. b6,g,msb,yX         .. b6,b,lsb,yX         .. b6,b,msb,yX         .. b6,a,lsb,yX         .. b6,a,msb,yX         .. b6,rgb,lsb,yX       .. b6,rgb,msb,yX       .. b6,bgr,lsb,yX       .. b6,bgr,msb,yX       .. b6,rgba,lsb,yX      .. text: "?[ ?c@?k`"
+b6,rgba,msb,yX      .. b6,abgr,lsb,yX      .. b6,abgr,msb,yX      .. text: "d?f%?&E?"
+b7,r,lsb,yX         .. b7,r,msb,yX         .. b7,g,lsb,yX         .. b7,g,msb,yX         .. b7,b,lsb,yX         .. b7,b,msb,yX         .. b7,a,lsb,yX         .. b7,a,msb,yX         .. b7,rgb,lsb,yX       .. b7,rgb,msb,yX       .. b7,bgr,lsb,yX       .. b7,bgr,msb,yX       .. b7,rgba,lsb,yX      .. b7,rgba,msb,yX      .. b7,abgr,lsb,yX      .. b7,abgr,msb,yX      .. b8,r,lsb,yX         .. text: "62*(&$\" $  "
+b8,r,msb,yX         .. text: "8XXXX8X(HH("
+b8,g,lsb,yX         .. text: "bbbb`ZRLJFD@<888::::862040.,...,..0048<><BD@<<:600002466@DFDHRXVHLNNJB820,,..(*,,*&(**(&&"
+b8,g,msb,yX         .. text: "t4ttt4tt"
+b8,b,lsb,yX         .. b8,b,msb,yX         .. text: "``` 0P``@@@@@"
+b8,a,lsb,yX         .. b8,a,msb,yX         .. b8,rgb,lsb,yX       .. b8,rgb,msb,yX       .. text: "lFXLFhTFp"
+b8,bgr,lsb,yX       .. b8,bgr,msb,yX       .. text: "XFlhFLpFT"
+b8,rgba,lsb,yX      .. b8,rgba,msb,yX      .. b8,abgr,lsb,yX      .. b8,abgr,msb,yX      .. b1,r,lsb,yX,prime   .. b1,r,msb,yX,prime   .. b1,g,lsb,yX,prime   .. b1,g,msb,yX,prime   .. b1,b,lsb,yX,prime   .. b1,b,msb,yX,prime   .. b1,a,lsb,yX,prime   .. b1,a,msb,yX,prime   .. b1,rgb,lsb,yX,prime .. b1,rgb,msb,yX,prime .. b1,bgr,lsb,yX,prime .. b1,bgr,msb,yX,prime .. b1,rgba,lsb,yX,prime.. b1,rgba,msb,yX,prime.. b1,abgr,lsb,yX,prime.. b1,abgr,msb,yX,prime.. b2,r,lsb,yX,prime   .. b2,r,msb,yX,prime   .. text: "PPADEDE@@"
+b2,g,lsb,yX,prime   .. b2,g,msb,yX,prime   .. b2,b,lsb,yX,prime   .. b2,b,msb,yX,prime   .. b2,a,lsb,yX,prime   .. b2,a,msb,yX,prime   .. b2,rgb,lsb,yX,prime .. b2,rgb,msb,yX,prime .. b2,bgr,lsb,yX,prime .. b2,bgr,msb,yX,prime .. b2,rgba,lsb,yX,prime.. b2,rgba,msb,yX,prime.. b2,abgr,lsb,yX,prime.. b2,abgr,msb,yX,prime.. b3,r,lsb,yX,prime   .. b3,r,msb,yX,prime   .. b3,g,lsb,yX,prime   .. b3,g,msb,yX,prime   .. b3,b,lsb,yX,prime   .. b3,b,msb,yX,prime   .. b3,a,lsb,yX,prime   .. b3,a,msb,yX,prime   .. b3,rgb,lsb,yX,prime .. b3,rgb,msb,yX,prime .. b3,bgr,lsb,yX,prime .. b3,bgr,msb,yX,prime .. b3,rgba,lsb,yX,prime.. b3,rgba,msb,yX,prime.. b3,abgr,lsb,yX,prime.. b3,abgr,msb,yX,prime.. text: "v\tGpDGvd"
+b4,r,lsb,yX,prime   .. b4,r,msb,yX,prime   .. text: "PfPe%u2Dc"
+b4,g,lsb,yX,prime   .. b4,g,msb,yX,prime   .. text: "&BG3qW\"\""
+b4,b,lsb,yX,prime   .. text: "  L\",&*b"
+b4,b,msb,yX,prime   .. text: "E `!22&&6"
+b4,a,lsb,yX,prime   .. b4,a,msb,yX,prime   .. b4,rgb,lsb,yX,prime .. b4,rgb,msb,yX,prime .. text: "$'4\"!G1`b"
+b4,bgr,lsb,yX,prime .. b4,bgr,msb,yX,prime .. text: "%'2$!Ag0`"
+b4,rgba,lsb,yX,prime.. text: "OlOJ/h/$"
+b4,rgba,msb,yX,prime.. b4,abgr,lsb,yX,prime.. b4,abgr,msb,yX,prime.. text: "EOP/'/C/!"
+b5,r,lsb,yX,prime   .. b5,r,msb,yX,prime   .. b5,g,lsb,yX,prime   .. b5,g,msb,yX,prime   .. b5,b,lsb,yX,prime   .. b5,b,msb,yX,prime   .. b5,a,lsb,yX,prime   .. b5,a,msb,yX,prime   .. b5,rgb,lsb,yX,prime .. b5,rgb,msb,yX,prime .. b5,bgr,lsb,yX,prime .. b5,bgr,msb,yX,prime .. b5,rgba,lsb,yX,prime.. b5,rgba,msb,yX,prime.. b5,abgr,lsb,yX,prime.. b5,abgr,msb,yX,prime.. b6,r,lsb,yX,prime   .. b6,r,msb,yX,prime   .. b6,g,lsb,yX,prime   .. b6,g,msb,yX,prime   .. b6,b,lsb,yX,prime   .. b6,b,msb,yX,prime   .. b6,a,lsb,yX,prime   .. b6,a,msb,yX,prime   .. b6,rgb,lsb,yX,prime .. b6,rgb,msb,yX,prime .. b6,bgr,lsb,yX,prime .. b6,bgr,msb,yX,prime .. b6,rgba,lsb,yX,prime.. text: "@?k@?[@?[@?C ?k"
+b6,rgba,msb,yX,prime.. b6,abgr,lsb,yX,prime.. b6,abgr,msb,yX,prime.. text: "8?tX?pY?pI?4X?"
+b7,r,lsb,yX,prime   .. b7,r,msb,yX,prime   .. b7,g,lsb,yX,prime   .. b7,g,msb,yX,prime   .. b7,b,lsb,yX,prime   .. b7,b,msb,yX,prime   .. file: dBase IV DBT, block length 4096, next free block index 34341944, next free block 67109376, next used block 131584
+b7,a,lsb,yX,prime   .. b7,a,msb,yX,prime   .. b7,rgb,lsb,yX,prime .. b7,rgb,msb,yX,prime .. b7,bgr,lsb,yX,prime .. b7,bgr,msb,yX,prime .. b7,rgba,lsb,yX,prime.. b7,rgba,msb,yX,prime.. b7,abgr,lsb,yX,prime.. b7,abgr,msb,yX,prime.. b8,r,lsb,yX,prime   .. text: "*6*$:>4,\"\""
+b8,r,msb,yX,prime   .. text: "8XXHX(H(x8("
+b8,g,lsb,yX,prime   .. text: "bbZL@8::0.,8B@64DRN2,,("
+b8,g,msb,yX,prime   .. text: "l,\"JrL44"
+b8,b,lsb,yX,prime   .. file: dBase IV DBT, block length 512, next free block index 67504142, next free block 4210951680, next used block 50134528
+b8,b,msb,yX,prime   .. file: dBase IV DBT of @   \020.DBF, block length 16384, next free block index 543166576, next free block 0, next used block 131072
+b8,a,lsb,yX,prime   .. b8,a,msb,yX,prime   .. b8,rgb,lsb,yX,prime .. b8,rgb,msb,yX,prime .. text: "@(t H4 ("
+b8,bgr,lsb,yX,prime .. b8,bgr,msb,yX,prime .. text: "X t( 4H "
+b8,rgba,lsb,yX,prime.. b8,rgba,msb,yX,prime.. b8,abgr,lsb,yX,prime.. b8,abgr,msb,yX,prime.. b1,r,lsb,xY         .. b1,r,msb,xY         .. b1,g,lsb,xY         .. b1,g,msb,xY         .. b1,b,lsb,xY         .. b1,b,msb,xY         .. b1,a,lsb,xY         .. b1,a,msb,xY         .. b1,rgb,lsb,xY       .. b1,rgb,msb,xY       .. b1,bgr,lsb,xY       .. b1,bgr,msb,xY       .. b1,rgba,lsb,xY      .. b1,rgba,msb,xY      .. b1,abgr,lsb,xY      .. b1,abgr,msb,xY      .. b2,r,lsb,xY         .. b2,r,msb,xY         .. text: "EQDQETDA"
+b2,g,lsb,xY         .. b2,g,msb,xY         .. text: "UQDQUUPQ@TA"
+b2,b,lsb,xY         .. b2,b,msb,xY         .. b2,a,lsb,xY         .. b2,a,msb,xY         .. b2,rgb,lsb,xY       .. text: "\" \"\"\"\"\" "
+b2,rgb,msb,xY       .. b2,bgr,lsb,xY       .. b2,bgr,msb,xY       .. file: 0420 Alliant virtual executable not stripped
+b2,rgba,lsb,xY      .. b2,rgba,msb,xY      .. b2,abgr,lsb,xY      .. b2,abgr,msb,xY      .. b3,r,lsb,xY         .. b3,r,msb,xY         .. b3,g,lsb,xY         .. b3,g,msb,xY         .. b3,b,lsb,xY         .. b3,b,msb,xY         .. b3,a,lsb,xY         .. b3,a,msb,xY         .. b3,rgb,lsb,xY       .. b3,rgb,msb,xY       .. b3,bgr,lsb,xY       .. text: "(0KH&SH6"
+b3,bgr,msb,xY       .. b3,rgba,lsb,xY      .. b3,rgba,msb,xY      .. b3,abgr,lsb,xY      .. b3,abgr,msb,xY      .. text: "IGrmWv$Gv"
+b4,r,lsb,xY         .. text: "$ffd,b&h"
+b4,r,msb,xY         .. text: "ff&$Q57Us3w"
+b4,g,lsb,xY         .. text: "$D\",B$f\"h"
+b4,g,msb,xY         .. text: "$\"D4B$fD"
+b4,b,lsb,xY         .. b4,b,msb,xY         .. text: "U3STgQ3U"
+b4,a,lsb,xY         .. b4,a,msb,xY         .. b4,rgb,lsb,xY       .. text: " $\"Bd$ d&b"
+b4,rgb,msb,xY       .. text: "&SvcptCW"
+b4,bgr,lsb,xY       .. text: " \"$bD$`&$"
+b4,bgr,msb,xY       .. text: "P#sv`sTG"
+b4,rgba,lsb,xY      .. text: " / OBOBod"
+b4,rgba,msb,xY      .. b4,abgr,lsb,xY      .. b4,abgr,msb,xY      .. text: "?@O@/@/$o$"
+b5,r,lsb,xY         .. b5,r,msb,xY         .. b5,g,lsb,xY         .. b5,g,msb,xY         .. b5,b,lsb,xY         .. b5,b,msb,xY         .. b5,a,lsb,xY         .. b5,a,msb,xY         .. b5,rgb,lsb,xY       .. b5,rgb,msb,xY       .. text: "RN)gLp.9"
+b5,bgr,lsb,xY       .. b5,bgr,msb,xY       .. b5,rgba,lsb,xY      .. b5,rgba,msb,xY      .. b5,abgr,lsb,xY      .. b5,abgr,msb,xY      .. b6,r,lsb,xY         .. b6,r,msb,xY         .. b6,g,lsb,xY         .. b6,g,msb,xY         .. b6,b,lsb,xY         .. file: raw G3 data, byte-padded
+b6,b,msb,xY         .. b6,a,lsb,xY         .. b6,a,msb,xY         .. b6,rgb,lsb,xY       .. b6,rgb,msb,xY       .. b6,bgr,lsb,xY       .. b6,bgr,msb,xY       .. b6,rgba,lsb,xY      .. text: "YF?af?af"
+b6,rgba,msb,xY      .. b6,abgr,lsb,xY      .. b6,abgr,msb,xY      .. b7,r,lsb,xY         .. b7,r,msb,xY         .. b7,g,lsb,xY         .. b7,g,msb,xY         .. b7,b,lsb,xY         .. b7,b,msb,xY         .. b7,a,lsb,xY         .. b7,a,msb,xY         .. b7,rgb,lsb,xY       .. b7,rgb,msb,xY       .. b7,bgr,lsb,xY       .. b7,bgr,msb,xY       .. b7,rgba,lsb,xY      .. b7,rgba,msb,xY      .. b7,abgr,lsb,xY      .. b7,abgr,msb,xY      .. b8,r,lsb,xY         .. text: ">@BFHHHHPTVVRRPRRRTTVXXZZZZXPHLTTXZZXXZ\\ZXVVVTPLNPRTTTTVZ\\\\ZVPLHBDFFFFFDB<62266888<>@BDD>>>>>@BDDDBDFHHHFJF84>DDLNLHD@BDHJPRTPNJPLJJLNNLVXXZZ\\\\\\````^^\\ZXPR^hhfffffdbdhjjlnljjlnllnnpprrppnnnnnnnpppppppnrtrnjjjlnprtrrpnrxxxvvx~~|vrnprxz|~~~~~z|||~~~~~"
+b8,r,msb,xY         .. text: "\n*jjJJ\nJJJ**j"
+b8,g,lsb,xY         .. text: "468<>>>>HLNPNNPPPPRRTVVXVTTRJDFNRVXXVVXZTRPPPNJFBDHNPRTVVXXVRLHD@@BDDDBBB<4224662268:<>><<:<<>@BBB@BBDFF@F@40:@>JLJFB>>BBFJNPPLLNLJJLNLLTVVXXZZZ`^^^\\\\ZXVPR^hhffdddb`bfhhjljhhjljjllnnppnnlllllllnnnnnnnlprplhhhfhlnnnlllpvvvttvxxtpjhhjtvxzzzzzzzzz|||||~"
+b8,g,msb,xY         .. text: "2r\nrr\n\n\n\nJJ*jj"
+b8,b,lsb,xY         .. text: "@@DFHHHHFJLNLJLLRTTVXXZZ\\\\\\ZRJNVXZ\\\\ZZ\\`ZXVVVTPLHJNRTVVXXXXXTNHDFHJJJJJHHB:88:<<<<@BDFHHBBB@>@BBFDFFJNNNHLH:6@FFLLNJFDFHJLRVXVRPTPNNPRRPXXZZ\\\\^^^``b``^^\\TT^hfdddffdbbfjjllljhjljllnnppppppppnnnppppprrrrtxvrnlnnprtvttrnrvxvtvv~~|vrnprttvxzzxxxzz~~"
+b8,b,msb,xY         .. text: "bR2r2R22J**j"
+b8,a,lsb,xY         .. b8,a,msb,xY         .. b8,rgb,lsb,xY       .. text: ">4@@6@B8DF<FH>HH>HH>HH>HPHFTLJVNLVPNRNLRNJPPLRPLRPRRPTTRTTRVVTXXVXXVZZXZZV\\ZT\\ZT\\XRZPJRHDJLFNTNVTRXXVZZX\\ZX\\XVZXVZZX\\\\Z`ZTZXRXVPVVPVVPVTNTPJPLFLNBHPDJRHNTNRTPTTRVTTVVVXZVX\\XX\\XXZVXVRTPLNLHHHDDB@FD@HFBJFDJFDJFDJFBJDBHBBH<<B64:22822864:66<86<82<82<<6@>8B@:DB"
+b8,rgb,msb,xY       .. text: "b*2Rjr2j\nrJr2JrR\n\n2J\n2J\nJJ\n**J**Jjj*"
+b8,bgr,lsb,xY       .. text: "@4>@6@D8BF<FH>HH>HH>HH>HFHPJLTLNVNPVLNRJNRLPPLPRRPRTPRTRTVRTXTVXVXZVXZXZ\\VZ\\TZ\\TZZRXRJPJDHNFLVNTXRTZVX\\XZ\\XZZVXZVX\\XZ`Z\\ZTZXRXVPVVPVVPVTNTPJPLFLHBNJDPNHRRNTTPTVRTVTTXVVXVZXX\\XX\\XVZTRVNLPHHLDDHF@BH@DJBFJDFJDFJDFJBFHBDHBBB<<:46822822:46<66<68<28<28@6<B8>D:@F"
+b8,bgr,msb,xY       .. text: "\nR2*2rjr\nj2rJRrJ2\n\n2\nJJ\nJ*\nJ*J*jJ*"
+b8,rgba,lsb,xY      .. b8,rgba,msb,xY      .. b8,abgr,lsb,xY      .. b8,abgr,msb,xY      .. b1,r,lsb,xY,prime   .. b1,r,msb,xY,prime   .. b1,g,lsb,xY,prime   .. b1,g,msb,xY,prime   .. b1,b,lsb,xY,prime   .. b1,b,msb,xY,prime   .. b1,a,lsb,xY,prime   .. b1,a,msb,xY,prime   .. b1,rgb,lsb,xY,prime .. b1,rgb,msb,xY,prime .. b1,bgr,lsb,xY,prime .. b1,bgr,msb,xY,prime .. b1,rgba,lsb,xY,prime.. b1,rgba,msb,xY,prime.. b1,abgr,lsb,xY,prime.. b1,abgr,msb,xY,prime.. b2,r,lsb,xY,prime   .. b2,r,msb,xY,prime   .. text: "DUEDUUTE"
+b2,g,lsb,xY,prime   .. b2,g,msb,xY,prime   .. b2,b,lsb,xY,prime   .. b2,b,msb,xY,prime   .. b2,a,lsb,xY,prime   .. b2,a,msb,xY,prime   .. b2,rgb,lsb,xY,prime .. b2,rgb,msb,xY,prime .. b2,bgr,lsb,xY,prime .. b2,bgr,msb,xY,prime .. b2,rgba,lsb,xY,prime.. b2,rgba,msb,xY,prime.. b2,abgr,lsb,xY,prime.. b2,abgr,msb,xY,prime.. text: "WWWWCWSWS"
+b3,r,lsb,xY,prime   .. b3,r,msb,xY,prime   .. b3,g,lsb,xY,prime   .. b3,g,msb,xY,prime   .. b3,b,lsb,xY,prime   .. b3,b,msb,xY,prime   .. b3,a,lsb,xY,prime   .. b3,a,msb,xY,prime   .. b3,rgb,lsb,xY,prime .. b3,rgb,msb,xY,prime .. b3,bgr,lsb,xY,prime .. b3,bgr,msb,xY,prime .. b3,rgba,lsb,xY,prime.. b3,rgba,msb,xY,prime.. b3,abgr,lsb,xY,prime.. b3,abgr,msb,xY,prime.. b4,r,lsb,xY,prime   .. b4,r,msb,xY,prime   .. text: "aSdWUqRpDgDVquwcR' 1\"qPVDr "
+b4,g,lsb,xY,prime   .. b4,g,msb,xY,prime   .. text: "F6Bc1$&5S"
+b4,b,lsb,xY,prime   .. b4,b,msb,xY,prime   .. text: "4DrW0pQp&"
+b4,a,lsb,xY,prime   .. b4,a,msb,xY,prime   .. b4,rgb,lsb,xY,prime .. b4,rgb,msb,xY,prime .. text: "VAa`c#de"
+b4,bgr,lsb,xY,prime .. b4,bgr,msb,xY,prime .. text: "Aa`cc$au"
+b4,rgba,lsb,xY,prime.. b4,rgba,msb,xY,prime.. b4,abgr,lsb,xY,prime.. b4,abgr,msb,xY,prime.. text: "`_G/@o$_Q_"
+b5,r,lsb,xY,prime   .. b5,r,msb,xY,prime   .. b5,g,lsb,xY,prime   .. b5,g,msb,xY,prime   .. b5,b,lsb,xY,prime   .. b5,b,msb,xY,prime   .. b5,a,lsb,xY,prime   .. b5,a,msb,xY,prime   .. b5,rgb,lsb,xY,prime .. b5,rgb,msb,xY,prime .. text: "PJjk,ATqm"
+b5,bgr,lsb,xY,prime .. b5,bgr,msb,xY,prime .. text: "Z*k,EDse"
+b5,rgba,lsb,xY,prime.. b5,rgba,msb,xY,prime.. b5,abgr,lsb,xY,prime.. b5,abgr,msb,xY,prime.. b6,r,lsb,xY,prime   .. b6,r,msb,xY,prime   .. text: "`yYVTEW5CU"
+b6,g,lsb,xY,prime   .. b6,g,msb,xY,prime   .. b6,b,lsb,xY,prime   .. b6,b,msb,xY,prime   .. text: "EER4U2$F"
+b6,a,lsb,xY,prime   .. b6,a,msb,xY,prime   .. b6,rgb,lsb,xY,prime .. b6,rgb,msb,xY,prime .. b6,bgr,lsb,xY,prime .. b6,bgr,msb,xY,prime .. b6,rgba,lsb,xY,prime.. b6,rgba,msb,xY,prime.. b6,abgr,lsb,xY,prime.. b6,abgr,msb,xY,prime.. text: "`?E1?GP?"
+b7,r,lsb,xY,prime   .. b7,r,msb,xY,prime   .. b7,g,lsb,xY,prime   .. b7,g,msb,xY,prime   .. b7,b,lsb,xY,prime   .. b7,b,msb,xY,prime   .. b7,a,lsb,xY,prime   .. b7,a,msb,xY,prime   .. b7,rgb,lsb,xY,prime .. b7,rgb,msb,xY,prime .. b7,bgr,lsb,xY,prime .. b7,bgr,msb,xY,prime .. b7,rgba,lsb,xY,prime.. b7,rgba,msb,xY,prime.. b7,abgr,lsb,xY,prime.. b7,abgr,msb,xY,prime.. b8,r,lsb,xY,prime   .. text: "BFHHVRRTZHTXXVLTZPFD<8>>DHH8>NJJXZ^Zhdjjnpnppprxvnz~|"
+b8,r,msb,xY,prime   .. text: "j2*Z\nb\"<"
+b8,g,lsb,xY,prime   .. text: "8<>>PNPRXDNVRPFRVLDB<68<BDF4:LLJVX\\Xhbhhlnlnnnnvphvzz~"
+b8,g,msb,xY,prime   .. text: "\"rjJ\nbJj2\"B<l"
+b8,b,lsb,xY,prime   .. text: "DFHHNJTVZJVZXVLVXNJHB<BBDNN:@LPNXZ`^fdjhnpnprrtvvntxzz"
+b8,b,msb,xY,prime   .. text: "rR*jZRjZ"
+b8,a,lsb,xY,prime   .. b8,a,msb,xY,prime   .. b8,rgb,lsb,xY,prime .. text: "B8DF<FH>HH>HVPNRNJRPTTRVZXZHDJTNVXVZXRXVPVLFLTRVZVXPLNFDJDBH<<B86<>8B><BDBDHDNHFN84:>:@NLLJLPJJNXVXZXZ^\\`ZX^hhfdbdjhjjhhnlnpnpnlnpnppnrpnrrntxvvvpvnhnzvt~zx|zz"
+b8,rgb,msb,xY,prime .. text: "j\nrJrRJ\n**JjZ"
+b8,bgr,lsb,xY,prime .. text: "D8BF<FH>HH>HNPVJNRTPRVRTZXZJDHVNTZVXXRXVPVLFLVRTXVZNLPJDFHBDB<<<68B8>B<>DBDNDHNFH:48@:>LLNPLJNJJXVXZXZ`\\^^XZfhhdbdjhjhhjnlnpnpnlnpnprnprnptnrvvxvpvnhntvzxz~zz|z~"
+b8,bgr,msb,xY,prime .. text: "r\njRrJ*\nJjJ*Z"
+b8,rgba,lsb,xY,prime.. b8,rgba,msb,xY,prime.. b8,abgr,lsb,xY,prime.. b8,abgr,msb,xY,prime.. b1,r,lsb,Yx         .. b1,r,msb,Yx         .. b1,g,lsb,Yx         .. b1,g,msb,Yx         .. b1,b,lsb,Yx         .. b1,b,msb,Yx         .. b1,a,lsb,Yx         .. b1,a,msb,Yx         .. b1,rgb,lsb,Yx       .. b1,rgb,msb,Yx       .. b1,bgr,lsb,Yx       .. b1,bgr,msb,Yx       .. b1,rgba,lsb,Yx      .. b1,rgba,msb,Yx      .. b1,abgr,lsb,Yx      .. b1,abgr,msb,Yx      .. b2,r,lsb,Yx         .. b2,r,msb,Yx         .. file: mc68k executable (shared) not stripped
+b2,g,lsb,Yx         .. b2,g,msb,Yx         .. b2,b,lsb,Yx         .. b2,b,msb,Yx         .. b2,a,lsb,Yx         .. b2,a,msb,Yx         .. b2,rgb,lsb,Yx       .. b2,rgb,msb,Yx       .. b2,bgr,lsb,Yx       .. b2,bgr,msb,Yx       .. text: "DDTUTEUPQ"
+b2,rgba,lsb,Yx      .. b2,rgba,msb,Yx      .. b2,abgr,lsb,Yx      .. b2,abgr,msb,Yx      .. text: "WGGGWWWG"
+b3,r,lsb,Yx         .. b3,r,msb,Yx         .. b3,g,lsb,Yx         .. b3,g,msb,Yx         .. b3,b,lsb,Yx         .. file: Award BIOS Logo, 136 x 126
+b3,b,msb,Yx         .. b3,a,lsb,Yx         .. b3,a,msb,Yx         .. b3,rgb,lsb,Yx       .. b3,rgb,msb,Yx       .. b3,bgr,lsb,Yx       .. b3,bgr,msb,Yx       .. b3,rgba,lsb,Yx      .. b3,rgba,msb,Yx      .. b3,abgr,lsb,Yx      .. b3,abgr,msb,Yx      .. b4,r,lsb,Yx         .. b4,r,msb,Yx         .. text: "dBp!tECt!f"
+b4,g,lsb,Yx         .. b4,g,msb,Yx         .. text: "w@0up @Vr"
+b4,b,lsb,Yx         .. text: "@$ffffDDDB"
+b4,b,msb,Yx         .. text: "U05%%V7`aa"
+b4,a,lsb,Yx         .. b4,a,msb,Yx         .. b4,rgb,lsb,Yx       .. b4,rgb,msb,Yx       .. text: "f`vfgvf`"
+b4,bgr,lsb,Yx       .. b4,bgr,msb,Yx       .. text: "f`vfgvf`"
+b4,rgba,lsb,Yx      .. text: "l/`o`ononono`o"
+b4,rgba,msb,Yx      .. b4,abgr,lsb,Yx      .. b4,abgr,msb,Yx      .. text: "_vOco`o`ogogogo`"
+b5,r,lsb,Yx         .. b5,r,msb,Yx         .. b5,g,lsb,Yx         .. b5,g,msb,Yx         .. b5,b,lsb,Yx         .. b5,b,msb,Yx         .. b5,a,lsb,Yx         .. b5,a,msb,Yx         .. b5,rgb,lsb,Yx       .. b5,rgb,msb,Yx       .. b5,bgr,lsb,Yx       .. b5,bgr,msb,Yx       .. b5,rgba,lsb,Yx      .. b5,rgba,msb,Yx      .. b5,abgr,lsb,Yx      .. b5,abgr,msb,Yx      .. b6,r,lsb,Yx         .. b6,r,msb,Yx         .. b6,g,lsb,Yx         .. b6,g,msb,Yx         .. b6,b,lsb,Yx         .. b6,b,msb,Yx         .. b6,a,lsb,Yx         .. b6,a,msb,Yx         .. b6,rgb,lsb,Yx       .. b6,rgb,msb,Yx       .. b6,bgr,lsb,Yx       .. b6,bgr,msb,Yx       .. b6,rgba,lsb,Yx      .. text: "ig?ig?qg?q"
+b6,rgba,msb,Yx      .. b6,abgr,lsb,Yx      .. b6,abgr,msb,Yx      .. b7,r,lsb,Yx         .. b7,r,msb,Yx         .. b7,g,lsb,Yx         .. b7,g,msb,Yx         .. b7,b,lsb,Yx         .. b7,b,msb,Yx         .. b7,a,lsb,Yx         .. b7,a,msb,Yx         .. b7,rgb,lsb,Yx       .. b7,rgb,msb,Yx       .. b7,bgr,lsb,Yx       .. b7,bgr,msb,Yx       .. b7,rgba,lsb,Yx      .. b7,rgba,msb,Yx      .. b7,abgr,lsb,Yx      .. b7,abgr,msb,Yx      .. b8,r,lsb,Yx         .. text: ">DHHFHNVVVVVVVXXVVXZZZ\\\\\\^`b`^ZXZZZ\\\\^^^`^^\\ZZXXZZZZXZ\\\\^XPPTXXVVZZXTRTXZ^`\\VPRVTRPNHDB>JR\\bb^XTVVXX\\^^^\\ZZZ\\`bbb^\\^\\V\\f`dhhlrtrrnjfdbdfjnprtx~"
+b8,r,msb,Yx         .. text: "rjjjjjjj"
+b8,g,lsb,Yx         .. text: "4:>><>FLPPNNNPPPNPRTXXZZXX\\\\\\XVTTVVVXXZZZZXVVTTTTTTTVX\\\\ZTLLPTTRTXXVRPRVTZ\\XRLNRJLHHFDB@JNRTTTXZXXVXXXXX\\\\ZZXZ\\^\\XVXVPV``ddbdhhffd```bdfdhlnprx|z~"
+b8,g,msb,Yx         .. text: ",\\||<|b2\n\nrrr\n\n\nr\nJ*"
+b8,b,lsb,Yx         .. text: "@DJHDFJRVVVVVVXXVVXZ\\^``\\\\```\\ZXZ\\\\\\^^``^^\\ZZXXXXXXXZ\\^^XRLLPTRPVXZXTRTV^`b\\RLLNTTTRPPNLHNTVVVVVRRRTVXZZXVVVVXZZ`\\Z\\ZTZdVZ^\\`fhfhfb`^`bddhhjlnrvvxzzxxz~tpnrttv~"
+b8,b,msb,Yx         .. text: "\"bRJjjjjjj"
+b8,a,lsb,Yx         .. b8,a,msb,Yx         .. b8,rgb,lsb,Yx       .. text: ">4@D:DH>JH>HF<DH>FNFJVLRVPVVPVVNVVNVVNVVPVXPXXPXVNVVPVXRXZTZZX\\ZX^\\Z`\\Z`\\X\\^X\\`\\`b\\``\\`^X\\ZVZXTXZTZZV\\ZV\\\\V\\\\X^^X^^Z`^Z``Z^^Z^^X\\\\VZZVZZTXXTXXTXZTXZTXZTXZTXXVZZX\\\\\\^\\\\^^ZXXTRPLLPLLTPPXTTXTRVRPVTVZXXZXZXVXTRTRPRTRTXVVZT^^Z``\\b\\X\\VRRPLLRNLVRNTJTRLTPHTNHRHFPD"
+b8,rgb,msb,Yx       .. text: "|brbRj2Jj\njj\njjrjjrjjrjj\nj"
+b8,bgr,lsb,Yx       .. text: "@4>D:DJ>HH>HD<FF>HJFNRLVVPVVPVVNVVNVVNVVPVXPXXPXVNVVPVXRXZTZ\\XZ^XZ`Z\\`Z\\\\X\\\\X^`\\``\\b`\\`\\X^ZVZXTXZTZ\\VZ\\VZ\\V\\^X\\^X^`Z^`Z^^Z`^Z^\\X^ZV\\ZVZXTZXTXXTXXTZXTZXTZXTZZVX\\XZ^\\\\^\\\\XZ^RTXLLPLLPPPTTTXRTXPRVVTVXXZZXZXVXTRTRPRTRTVVX^TZ`Z^b\\`\\X\\RRVLLPLNRNRVTJTTLRTHPRHNPFHP"
+b8,bgr,msb,Yx       .. text: "RbrJ2jj\njj\njjrjjrjjrjj\nj"
+b8,rgba,lsb,Yx      .. b8,rgba,msb,Yx      .. b8,abgr,lsb,Yx      .. b8,abgr,msb,Yx      .. b1,r,lsb,Yx,prime   .. b1,r,msb,Yx,prime   .. b1,g,lsb,Yx,prime   .. b1,g,msb,Yx,prime   .. b1,b,lsb,Yx,prime   .. b1,b,msb,Yx,prime   .. b1,a,lsb,Yx,prime   .. b1,a,msb,Yx,prime   .. b1,rgb,lsb,Yx,prime .. b1,rgb,msb,Yx,prime .. b1,bgr,lsb,Yx,prime .. b1,bgr,msb,Yx,prime .. b1,rgba,lsb,Yx,prime.. b1,rgba,msb,Yx,prime.. b1,abgr,lsb,Yx,prime.. b1,abgr,msb,Yx,prime.. b2,r,lsb,Yx,prime   .. b2,r,msb,Yx,prime   .. b2,g,lsb,Yx,prime   .. b2,g,msb,Yx,prime   .. b2,b,lsb,Yx,prime   .. b2,b,msb,Yx,prime   .. b2,a,lsb,Yx,prime   .. b2,a,msb,Yx,prime   .. b2,rgb,lsb,Yx,prime .. b2,rgb,msb,Yx,prime .. b2,bgr,lsb,Yx,prime .. b2,bgr,msb,Yx,prime .. b2,rgba,lsb,Yx,prime.. b2,rgba,msb,Yx,prime.. b2,abgr,lsb,Yx,prime.. b2,abgr,msb,Yx,prime.. text: "SWGWGCGW"
+b3,r,lsb,Yx,prime   .. b3,r,msb,Yx,prime   .. b3,g,lsb,Yx,prime   .. b3,g,msb,Yx,prime   .. b3,b,lsb,Yx,prime   .. b3,b,msb,Yx,prime   .. b3,a,lsb,Yx,prime   .. b3,a,msb,Yx,prime   .. b3,rgb,lsb,Yx,prime .. b3,rgb,msb,Yx,prime .. b3,bgr,lsb,Yx,prime .. b3,bgr,msb,Yx,prime .. b3,rgba,lsb,Yx,prime.. b3,rgba,msb,Yx,prime.. b3,abgr,lsb,Yx,prime.. b3,abgr,msb,Yx,prime.. b4,r,lsb,Yx,prime   .. b4,r,msb,Yx,prime   .. text: "gGvWpdG`D1"
+b4,g,lsb,Yx,prime   .. b4,g,msb,Yx,prime   .. text: "$c0e%6VC"
+b4,b,lsb,Yx,prime   .. b4,b,msb,Yx,prime   .. text: "FfV0qW1#apt"
+b4,a,lsb,Yx,prime   .. b4,a,msb,Yx,prime   .. b4,rgb,lsb,Yx,prime .. b4,rgb,msb,Yx,prime .. text: "VRSp1!qqW7V!Q10"
+b4,bgr,lsb,Yx,prime .. b4,bgr,msb,Yx,prime .. text: "VRP3q!qqWW6!1Q3 "
+b4,rgba,lsb,Yx,prime.. text: "ol/no`o`o"
+b4,rgba,msb,Yx,prime.. b4,abgr,lsb,Yx,prime.. b4,abgr,msb,Yx,prime.. text: "Ocogo`o`_R"
+b5,r,lsb,Yx,prime   .. text: "A@@<*)Pq="
+b5,r,msb,Yx,prime   .. b5,g,lsb,Yx,prime   .. b5,g,msb,Yx,prime   .. b5,b,lsb,Yx,prime   .. b5,b,msb,Yx,prime   .. b5,a,lsb,Yx,prime   .. b5,a,msb,Yx,prime   .. b5,rgb,lsb,Yx,prime .. b5,rgb,msb,Yx,prime .. b5,bgr,lsb,Yx,prime .. b5,bgr,msb,Yx,prime .. b5,rgba,lsb,Yx,prime.. b5,rgba,msb,Yx,prime.. b5,abgr,lsb,Yx,prime.. b5,abgr,msb,Yx,prime.. b6,r,lsb,Yx,prime   .. b6,r,msb,Yx,prime   .. b6,g,lsb,Yx,prime   .. b6,g,msb,Yx,prime   .. b6,b,lsb,Yx,prime   .. b6,b,msb,Yx,prime   .. b6,a,lsb,Yx,prime   .. b6,a,msb,Yx,prime   .. b6,rgb,lsb,Yx,prime .. b6,rgb,msb,Yx,prime .. b6,bgr,lsb,Yx,prime .. b6,bgr,msb,Yx,prime .. b6,rgba,lsb,Yx,prime.. text: "?aE?af?ae"
+b6,rgba,msb,Yx,prime.. b6,abgr,lsb,Yx,prime.. b6,abgr,msb,Yx,prime.. text: "v}?F0?D1?@0"
+b7,r,lsb,Yx,prime   .. b7,r,msb,Yx,prime   .. b7,g,lsb,Yx,prime   .. b7,g,msb,Yx,prime   .. b7,b,lsb,Yx,prime   .. file: PGP\011Secret Key -
+b7,b,msb,Yx,prime   .. b7,a,lsb,Yx,prime   .. b7,a,msb,Yx,prime   .. b7,rgb,lsb,Yx,prime .. b7,rgb,msb,Yx,prime .. b7,bgr,lsb,Yx,prime .. b7,bgr,msb,Yx,prime .. b7,rgba,lsb,Yx,prime.. b7,rgba,msb,Yx,prime.. b7,abgr,lsb,Yx,prime.. b7,abgr,msb,Yx,prime.. b8,r,lsb,Yx,prime   .. text: "HHHVVVVZ\\^X^^\\XZPXXX^VNRV^^Z`^rfnr"
+b8,r,msb,Yx,prime   .. text: "zjrJjzzZ"
+b8,g,lsb,Yx,prime   .. text: ">>>LNPPTZXTXZVTXLTVVZRHNXXXZZXf`hn~"
+b8,g,msb,Yx,prime   .. text: "|||2r\n\n*Z"
+b8,b,lsb,Yx,prime   .. text: "JHFRVVVZ`\\X^^ZX\\LTXV`NRNRXZVX\\f`hjx~t"
+b8,b,msb,Yx,prime   .. text: "a!!A!Q~!!1\tAIY\t\ta"
+b8,a,lsb,Yx,prime   .. b8,a,msb,Yx,prime   .. b8,rgb,lsb,Yx,prime .. text: "H>JH>HH>FVLRVNVVPVVPVZTZ\\Z`^X\\XTX^X^^Z^\\VZXTXZX\\PLLXTTXVXXVV^Z`VRNNHRRNNVXR^XX^XZZZV`ZX^X\\rfff``nhhrnj"
+b8,rgb,msb,Yx,prime .. text: "|bj2Jjrjj\njj\njZ*Z:Z"
+b8,bgr,lsb,Yx,prime .. text: "J>HH>HF>HRLVVNVVPVVPVZTZ`Z\\\\X^XTX^X^^Z^ZV\\XTX\\XZLLPTTXXVXVVX`Z^NRVRHNNNRRXVXX^ZX^VZZXZ`\\X^ffr``fhhnjnrx~"
+b8,bgr,msb,Yx,prime .. text: "J2jjrjj\njj\njZ*Z"
+b8,rgba,lsb,Yx,prime.. b8,rgba,msb,Yx,prime.. b8,abgr,lsb,Yx,prime.. b8,abgr,msb,Yx,prime..                     
