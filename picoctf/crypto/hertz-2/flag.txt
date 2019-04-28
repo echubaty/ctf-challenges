@@ -1,0 +1,3 @@
+picoCTF{substitution_ciphers_are_too_easy_gmnibirtnv}
+
+Found using https://www.dcode.fr/substitution-monoalphabetique for manual decryption. Knew picoCTF was present and guessed some, then realized the rest was "the quick brown fox"....
