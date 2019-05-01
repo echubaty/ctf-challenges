@@ -6,7 +6,7 @@ from pwn import *
 import time
 import re
 
-def wait_and_you_shall_receive():
+def you_shall_receive():
 	response = r.recv(1000)
 	log.info(response)
 	return response
@@ -32,7 +32,7 @@ with open('incidents.json') as incidents_file:
 	src_ip_count = Counter([tup[0] for tup in source_dest])
 	do_the_send(r, src_ip_count.most_common(1)[0][0])
 
-	response = wait_and_you_shall_receive()
+	response = you_shall_receive()
 
 	# Find unique destination ips that was targetted by this source
 	ip_regex = re.compile("\d+")

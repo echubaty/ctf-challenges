@@ -1,0 +1,16 @@
+POST /button2.php HTTP/1.1
+Host: 2018shell.picoctf.com:7949
+Content-Length: 0
+Cache-Control: max-age=0
+Origin: http://2018shell.picoctf.com:7949
+Upgrade-Insecure-Requests: 1
+DNT: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://2018shell.picoctf.com:7949/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-CA,en-GB;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.2.801383206.1556045450; username=admin; password=admin; _gid=GA1.2.294069985.1556648089
+Connection: close
+
