@@ -1,0 +1,4 @@
+Notes:
+go to http://2018shell.picoctf.com:10573/flag
+set the cookie "admin" -> "True" then refresh the page
+reveal the flag

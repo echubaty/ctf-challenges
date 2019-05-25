@@ -2,4 +2,4 @@
 
 
 #| nc 2018shell.picoctf.com 63299
-python getflag.py 
+python getflag.py | grep -oE picoCTF{.*}

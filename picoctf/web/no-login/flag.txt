@@ -1,7 +1,1 @@
-Notes:
-go to http://2018shell.picoctf.com:10573/flag
-set the cookie "admin" -> "True" then refresh the page
-reveal the flag
-
-
-Flag: picoCTF{n0l0g0n_n0_pr0bl3m_ed714e0e}
+picoCTF{n0l0g0n_n0_pr0bl3m_ed714e0e}

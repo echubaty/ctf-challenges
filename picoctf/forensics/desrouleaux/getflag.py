@@ -44,7 +44,7 @@ with open('incidents.json') as incidents_file:
 	the_answer = len(set([tup[1] for tup in source_dest if tup[0] == unique_dest_ip_from]))
 	do_the_send(r, the_answer)
 
-	response = wait_and_you_shall_receive()
+	response = you_shall_receive()
 
 
 	# Find number of unique dest ips a file is sent, on average to 2 decimal places
@@ -58,5 +58,4 @@ with open('incidents.json') as incidents_file:
 	the_new_answer = round(float(sum(file_count))/len(files), 2)
 	do_the_send(r, the_new_answer)
 
-
-	r.interactive()
+	you_shall_receive()
